@@ -1,3 +1,5 @@
+![alt text](https://github.com/zazaserty/Za.dots/blob/main/attachments/kernelconfig.png)
+
 <div align="center">
 
 ![](https://img.shields.io/github/last-commit/zazaserty/Zakernel?style=flat-square&logo=)
