@@ -1,4 +1,4 @@
-![alt text](https://github.com/zazaserty/Za.dots/blob/main/attachments/kernelconfig.png)
+![alt text](https://github.com/zazaserty/Zakernel/blob/main/attachments/kernelconfig.png)
 
 <div align="center">
 
