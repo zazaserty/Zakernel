@@ -1,3 +1,10 @@
+<div align="center">
+
+![](https://img.shields.io/github/last-commit/zazaserty/Zadots?style=flat-square&logo=)
+![](https://img.shields.io/github/stars/zazaserty/Zadots?style=flat-square&logo=)
+  
+<div align="left">
+
 # Zakernel
 This is a custom kernel configuration file designed for the Ideapad 3 15" laptop, **tailored specifically for use with Gentoo Kernel Sources**. The configuration has been optimized to minimize compile time, given the hardware limitations of the device, by removing unnecessary options. While not entirely minimalistic, it provides adequate functionality for the intended purpose.
 
