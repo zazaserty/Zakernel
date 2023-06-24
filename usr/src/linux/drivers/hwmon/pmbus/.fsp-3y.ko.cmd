@@ -1,1 +1,0 @@
-savedcmd_drivers/hwmon/pmbus/fsp-3y.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/pmbus/fsp-3y.ko drivers/hwmon/pmbus/fsp-3y.o drivers/hwmon/pmbus/fsp-3y.mod.o;  true

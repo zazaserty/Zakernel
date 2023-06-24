@@ -1,1 +1,0 @@
-savedcmd_drivers/hwmon/pmbus/dps920ab.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/pmbus/dps920ab.ko drivers/hwmon/pmbus/dps920ab.o drivers/hwmon/pmbus/dps920ab.mod.o;  true

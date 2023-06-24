@@ -1,1 +1,0 @@
-drivers/scsi/ips.o

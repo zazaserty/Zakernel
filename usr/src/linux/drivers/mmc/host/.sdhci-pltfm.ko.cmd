@@ -1,1 +1,0 @@
-savedcmd_drivers/mmc/host/sdhci-pltfm.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/mmc/host/sdhci-pltfm.ko drivers/mmc/host/sdhci-pltfm.o drivers/mmc/host/sdhci-pltfm.mod.o;  true

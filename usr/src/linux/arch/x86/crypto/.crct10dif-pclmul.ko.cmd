@@ -1,1 +1,0 @@
-savedcmd_arch/x86/crypto/crct10dif-pclmul.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o arch/x86/crypto/crct10dif-pclmul.ko arch/x86/crypto/crct10dif-pclmul.o arch/x86/crypto/crct10dif-pclmul.mod.o;  true

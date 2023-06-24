@@ -1,1 +1,0 @@
-savedcmd_drivers/media/i2c/m5mols/m5mols.mod := printf '%s\n'   m5mols_core.o m5mols_controls.o m5mols_capture.o | awk '!x[$$0]++ { print("drivers/media/i2c/m5mols/"$$0) }' > drivers/media/i2c/m5mols/m5mols.mod

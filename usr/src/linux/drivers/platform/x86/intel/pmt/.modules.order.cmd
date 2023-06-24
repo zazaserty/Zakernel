@@ -1,1 +1,0 @@
-savedcmd_drivers/platform/x86/intel/pmt/modules.order := {   echo drivers/platform/x86/intel/pmt/pmt_class.o;   echo drivers/platform/x86/intel/pmt/pmt_telemetry.o;   echo drivers/platform/x86/intel/pmt/pmt_crashlog.o; :; } > drivers/platform/x86/intel/pmt/modules.order

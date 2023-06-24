@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/ch_ktls.mod := printf '%s\n'   chcr_ktls.o | awk '!x[$$0]++ { print("drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/"$$0) }' > drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/ch_ktls.mod

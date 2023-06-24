@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/buffer/industrialio-buffer-cb.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/iio/buffer/industrialio-buffer-cb.ko drivers/iio/buffer/industrialio-buffer-cb.o drivers/iio/buffer/industrialio-buffer-cb.mod.o;  true

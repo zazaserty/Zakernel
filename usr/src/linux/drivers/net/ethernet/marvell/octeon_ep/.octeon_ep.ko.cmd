@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/marvell/octeon_ep/octeon_ep.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/ethernet/marvell/octeon_ep/octeon_ep.ko drivers/net/ethernet/marvell/octeon_ep/octeon_ep.o drivers/net/ethernet/marvell/octeon_ep/octeon_ep.mod.o;  true

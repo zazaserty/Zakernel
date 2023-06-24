@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/adc/intel_mrfld_adc.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/iio/adc/intel_mrfld_adc.ko drivers/iio/adc/intel_mrfld_adc.o drivers/iio/adc/intel_mrfld_adc.mod.o;  true

@@ -1,1 +1,0 @@
-savedcmd_drivers/media/dvb-frontends/lgdt330x.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/lgdt330x.ko drivers/media/dvb-frontends/lgdt330x.o drivers/media/dvb-frontends/lgdt330x.mod.o;  true

@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/mellanox/mlxsw/mlxsw_minimal.mod := printf '%s\n'   minimal.o | awk '!x[$$0]++ { print("drivers/net/ethernet/mellanox/mlxsw/"$$0) }' > drivers/net/ethernet/mellanox/mlxsw/mlxsw_minimal.mod

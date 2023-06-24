@@ -1,1 +1,0 @@
-savedcmd_drivers/hid/hid-pxrc.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hid/hid-pxrc.ko drivers/hid/hid-pxrc.o drivers/hid/hid-pxrc.mod.o;  true

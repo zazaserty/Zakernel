@@ -1,1 +1,0 @@
-savedcmd_drivers/hwmon/pmbus/bel-pfe.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/pmbus/bel-pfe.ko drivers/hwmon/pmbus/bel-pfe.o drivers/hwmon/pmbus/bel-pfe.mod.o;  true

@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/pressure/modules.order := {   echo drivers/iio/pressure/abp060mg.o;   echo drivers/iio/pressure/bmp280.o;   echo drivers/iio/pressure/bmp280-i2c.o;   echo drivers/iio/pressure/bmp280-spi.o;   echo drivers/iio/pressure/icp10100.o;   echo drivers/iio/pressure/mpl115.o;   echo drivers/iio/pressure/mpl115_i2c.o; :; } > drivers/iio/pressure/modules.order

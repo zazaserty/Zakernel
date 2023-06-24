@@ -1,1 +1,0 @@
-savedcmd_drivers/nfc/microread/modules.order := {   echo drivers/nfc/microread/microread.o;   echo drivers/nfc/microread/microread_i2c.o;   echo drivers/nfc/microread/microread_mei.o; :; } > drivers/nfc/microread/modules.order

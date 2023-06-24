@@ -1,1 +1,0 @@
-savedcmd_drivers/platform/x86/intel/telemetry/intel_telemetry_pltdrv.mod := printf '%s\n'   pltdrv.o | awk '!x[$$0]++ { print("drivers/platform/x86/intel/telemetry/"$$0) }' > drivers/platform/x86/intel/telemetry/intel_telemetry_pltdrv.mod

@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/sun/modules.order := {   echo drivers/net/ethernet/sun/sunhme.o;   echo drivers/net/ethernet/sun/sungem.o;   echo drivers/net/ethernet/sun/cassini.o;   echo drivers/net/ethernet/sun/niu.o; :; } > drivers/net/ethernet/sun/modules.order

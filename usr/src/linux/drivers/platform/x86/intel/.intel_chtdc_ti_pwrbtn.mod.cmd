@@ -1,1 +1,0 @@
-savedcmd_drivers/platform/x86/intel/intel_chtdc_ti_pwrbtn.mod := printf '%s\n'   chtdc_ti_pwrbtn.o | awk '!x[$$0]++ { print("drivers/platform/x86/intel/"$$0) }' > drivers/platform/x86/intel/intel_chtdc_ti_pwrbtn.mod

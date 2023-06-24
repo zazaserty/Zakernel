@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/amplifiers/hmc425a.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/iio/amplifiers/hmc425a.ko drivers/iio/amplifiers/hmc425a.o drivers/iio/amplifiers/hmc425a.mod.o;  true

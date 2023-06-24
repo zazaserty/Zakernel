@@ -1,1 +1,0 @@
-savedcmd_sound/soc/intel/boards/snd-soc-sst-glk-rt5682_max98357a.mod := printf '%s\n'   glk_rt5682_max98357a.o | awk '!x[$$0]++ { print("sound/soc/intel/boards/"$$0) }' > sound/soc/intel/boards/snd-soc-sst-glk-rt5682_max98357a.mod

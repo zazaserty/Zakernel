@@ -1,1 +1,0 @@
-savedcmd_drivers/usb/built-in.a := rm -f drivers/usb/built-in.a;  printf "drivers/usb/%s " common/built-in.a core/built-in.a phy/built-in.a mon/built-in.a host/built-in.a storage/built-in.a serial/built-in.a misc/built-in.a early/built-in.a roles/built-in.a | xargs ar cDPrST drivers/usb/built-in.a

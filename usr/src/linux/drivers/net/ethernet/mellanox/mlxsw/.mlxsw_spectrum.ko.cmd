@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/mellanox/mlxsw/mlxsw_spectrum.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/ethernet/mellanox/mlxsw/mlxsw_spectrum.ko drivers/net/ethernet/mellanox/mlxsw/mlxsw_spectrum.o drivers/net/ethernet/mellanox/mlxsw/mlxsw_spectrum.mod.o;  true

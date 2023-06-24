@@ -1,5 +1,0 @@
-drivers/extcon/extcon-axp288.o
-drivers/extcon/extcon-intel-int3496.o
-drivers/extcon/extcon-intel-cht-wc.o
-drivers/extcon/extcon-intel-mrfld.o
-drivers/extcon/extcon-usbc-tusb320.o

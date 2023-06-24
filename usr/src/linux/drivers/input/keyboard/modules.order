@@ -1,7 +1,0 @@
-drivers/input/keyboard/applespi.o
-drivers/input/keyboard/cypress-sf.o
-drivers/input/keyboard/gpio_keys.o
-drivers/input/keyboard/gpio_keys_polled.o
-drivers/input/keyboard/qt1050.o
-drivers/input/keyboard/qt1070.o
-drivers/input/keyboard/tm2-touchkey.o

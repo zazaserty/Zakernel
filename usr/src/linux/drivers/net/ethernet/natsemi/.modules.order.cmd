@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/natsemi/modules.order := {   echo drivers/net/ethernet/natsemi/natsemi.o;   echo drivers/net/ethernet/natsemi/ns83820.o; :; } > drivers/net/ethernet/natsemi/modules.order

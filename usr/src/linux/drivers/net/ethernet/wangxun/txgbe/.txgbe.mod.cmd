@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/wangxun/txgbe/txgbe.mod := printf '%s\n'   txgbe_main.o txgbe_hw.o txgbe_ethtool.o | awk '!x[$$0]++ { print("drivers/net/ethernet/wangxun/txgbe/"$$0) }' > drivers/net/ethernet/wangxun/txgbe/txgbe.mod

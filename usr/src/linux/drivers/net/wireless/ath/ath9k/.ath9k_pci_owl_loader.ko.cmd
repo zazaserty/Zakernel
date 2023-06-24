@@ -1,1 +1,0 @@
-savedcmd_drivers/net/wireless/ath/ath9k/ath9k_pci_owl_loader.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/wireless/ath/ath9k/ath9k_pci_owl_loader.ko drivers/net/wireless/ath/ath9k/ath9k_pci_owl_loader.o drivers/net/wireless/ath/ath9k/ath9k_pci_owl_loader.mod.o;  true

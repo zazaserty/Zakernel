@@ -1,1 +1,0 @@
-savedcmd_drivers/regulator/rtq2134-regulator.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/regulator/rtq2134-regulator.ko drivers/regulator/rtq2134-regulator.o drivers/regulator/rtq2134-regulator.mod.o;  true

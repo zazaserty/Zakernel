@@ -1,1 +1,0 @@
-savedcmd_sound/soc/intel/boards/snd-soc-skl_hda_dsp.mod := printf '%s\n'   skl_hda_dsp_generic.o skl_hda_dsp_common.o | awk '!x[$$0]++ { print("sound/soc/intel/boards/"$$0) }' > sound/soc/intel/boards/snd-soc-skl_hda_dsp.mod

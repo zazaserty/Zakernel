@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/wangxun/modules.order := {   cat drivers/net/ethernet/wangxun/libwx/modules.order;   cat drivers/net/ethernet/wangxun/txgbe/modules.order;   cat drivers/net/ethernet/wangxun/ngbe/modules.order; :; } > drivers/net/ethernet/wangxun/modules.order

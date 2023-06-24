@@ -1,1 +1,0 @@
-savedcmd_drivers/nvdimm/modules.order := {   echo drivers/nvdimm/libnvdimm.o;   echo drivers/nvdimm/nd_pmem.o;   echo drivers/nvdimm/nd_btt.o;   echo drivers/nvdimm/nd_e820.o; :; } > drivers/nvdimm/modules.order

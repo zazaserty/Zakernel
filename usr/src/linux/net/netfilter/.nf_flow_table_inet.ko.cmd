@@ -1,1 +1,0 @@
-savedcmd_net/netfilter/nf_flow_table_inet.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o net/netfilter/nf_flow_table_inet.ko net/netfilter/nf_flow_table_inet.o net/netfilter/nf_flow_table_inet.mod.o;  true

@@ -1,7 +1,0 @@
-drivers/net/ethernet/chelsio/inline_crypto/ch_ipsec/ch_ipsec.o
-drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/ch_ktls.o
-drivers/net/ethernet/chelsio/cxgb/cxgb.o
-drivers/net/ethernet/chelsio/cxgb3/cxgb3.o
-drivers/net/ethernet/chelsio/cxgb4/cxgb4.o
-drivers/net/ethernet/chelsio/cxgb4vf/cxgb4vf.o
-drivers/net/ethernet/chelsio/libcxgb/libcxgb.o

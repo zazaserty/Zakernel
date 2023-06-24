@@ -1,1 +1,0 @@
-savedcmd_sound/soc/amd/vangogh/modules.order := {   echo sound/soc/amd/vangogh/snd-pci-acp5x.o;   echo sound/soc/amd/vangogh/snd-acp5x-i2s.o;   echo sound/soc/amd/vangogh/snd-acp5x-pcm-dma.o;   echo sound/soc/amd/vangogh/snd-soc-acp5x-mach.o; :; } > sound/soc/amd/vangogh/modules.order

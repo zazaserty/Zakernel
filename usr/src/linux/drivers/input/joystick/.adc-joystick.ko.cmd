@@ -1,1 +1,0 @@
-savedcmd_drivers/input/joystick/adc-joystick.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/input/joystick/adc-joystick.ko drivers/input/joystick/adc-joystick.o drivers/input/joystick/adc-joystick.mod.o;  true

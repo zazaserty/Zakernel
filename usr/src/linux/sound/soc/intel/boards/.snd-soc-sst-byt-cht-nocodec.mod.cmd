@@ -1,1 +1,0 @@
-savedcmd_sound/soc/intel/boards/snd-soc-sst-byt-cht-nocodec.mod := printf '%s\n'   bytcht_nocodec.o | awk '!x[$$0]++ { print("sound/soc/intel/boards/"$$0) }' > sound/soc/intel/boards/snd-soc-sst-byt-cht-nocodec.mod

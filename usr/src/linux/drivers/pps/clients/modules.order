@@ -1,3 +1,0 @@
-drivers/pps/clients/pps-ldisc.o
-drivers/pps/clients/pps_parport.o
-drivers/pps/clients/pps-gpio.o

@@ -1,3 +1,0 @@
-savedcmd_drivers/net/wireless/broadcom/b43/b43.o := ld -m elf_x86_64 -z noexecstack --no-warn-rwx-segments   -r -o drivers/net/wireless/broadcom/b43/b43.o @drivers/net/wireless/broadcom/b43/b43.mod  ; ./tools/objtool/objtool --hacks=jump_label --hacks=noinstr --hacks=skylake --ibt --orc --retpoline --rethunk --sls --static-call --uaccess --prefix=16  --link  --module drivers/net/wireless/broadcom/b43/b43.o
-
-drivers/net/wireless/broadcom/b43/b43.o: $(wildcard ./tools/objtool/objtool)

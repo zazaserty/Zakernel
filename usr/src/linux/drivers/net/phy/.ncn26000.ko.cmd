@@ -1,1 +1,0 @@
-savedcmd_drivers/net/phy/ncn26000.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/phy/ncn26000.ko drivers/net/phy/ncn26000.o drivers/net/phy/ncn26000.mod.o;  true

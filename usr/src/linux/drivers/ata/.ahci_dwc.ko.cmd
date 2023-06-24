@@ -1,1 +1,0 @@
-savedcmd_drivers/ata/ahci_dwc.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/ata/ahci_dwc.ko drivers/ata/ahci_dwc.o drivers/ata/ahci_dwc.mod.o;  true

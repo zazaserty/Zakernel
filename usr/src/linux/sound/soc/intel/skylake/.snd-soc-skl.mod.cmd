@@ -1,1 +1,0 @@
-savedcmd_sound/soc/intel/skylake/snd-soc-skl.mod := printf '%s\n'   skl.o skl-pcm.o skl-nhlt.o skl-messages.o skl-topology.o skl-sst-ipc.o skl-sst-dsp.o cnl-sst-dsp.o skl-sst-cldma.o skl-sst.o bxt-sst.o cnl-sst.o skl-sst-utils.o skl-debug.o | awk '!x[$$0]++ { print("sound/soc/intel/skylake/"$$0) }' > sound/soc/intel/skylake/snd-soc-skl.mod

@@ -1,1 +1,0 @@
-savedcmd_drivers/media/radio/si470x/radio-si470x-i2c.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/media/radio/si470x/radio-si470x-i2c.ko drivers/media/radio/si470x/radio-si470x-i2c.o drivers/media/radio/si470x/radio-si470x-i2c.mod.o;  true

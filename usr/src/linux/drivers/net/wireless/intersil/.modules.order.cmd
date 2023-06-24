@@ -1,1 +1,0 @@
-savedcmd_drivers/net/wireless/intersil/modules.order := {   cat drivers/net/wireless/intersil/p54/modules.order; :; } > drivers/net/wireless/intersil/modules.order

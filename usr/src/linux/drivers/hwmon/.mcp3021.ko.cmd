@@ -1,1 +1,0 @@
-savedcmd_drivers/hwmon/mcp3021.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/mcp3021.ko drivers/hwmon/mcp3021.o drivers/hwmon/mcp3021.mod.o;  true

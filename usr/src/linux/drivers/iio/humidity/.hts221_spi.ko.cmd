@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/humidity/hts221_spi.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/iio/humidity/hts221_spi.ko drivers/iio/humidity/hts221_spi.o drivers/iio/humidity/hts221_spi.mod.o;  true

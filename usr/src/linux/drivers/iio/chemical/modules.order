@@ -1,7 +1,0 @@
-drivers/iio/chemical/bme680_core.o
-drivers/iio/chemical/bme680_i2c.o
-drivers/iio/chemical/bme680_spi.o
-drivers/iio/chemical/pms7003.o
-drivers/iio/chemical/scd30_core.o
-drivers/iio/chemical/scd30_i2c.o
-drivers/iio/chemical/scd30_serial.o

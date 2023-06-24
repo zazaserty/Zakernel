@@ -1,1 +1,0 @@
-savedcmd_drivers/platform/x86/intel/int1092/intel_sar.mod := printf '%s\n'   intel_sar.o | awk '!x[$$0]++ { print("drivers/platform/x86/intel/int1092/"$$0) }' > drivers/platform/x86/intel/int1092/intel_sar.mod

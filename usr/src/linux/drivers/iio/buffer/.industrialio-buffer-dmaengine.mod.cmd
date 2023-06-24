@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/buffer/industrialio-buffer-dmaengine.mod := printf '%s\n'   industrialio-buffer-dmaengine.o | awk '!x[$$0]++ { print("drivers/iio/buffer/"$$0) }' > drivers/iio/buffer/industrialio-buffer-dmaengine.mod

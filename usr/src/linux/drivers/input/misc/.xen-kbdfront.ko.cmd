@@ -1,1 +1,0 @@
-savedcmd_drivers/input/misc/xen-kbdfront.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/input/misc/xen-kbdfront.ko drivers/input/misc/xen-kbdfront.o drivers/input/misc/xen-kbdfront.mod.o;  true

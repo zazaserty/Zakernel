@@ -1,1 +1,0 @@
-savedcmd_drivers/md/dm-clone.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/md/dm-clone.ko drivers/md/dm-clone.o drivers/md/dm-clone.mod.o;  true

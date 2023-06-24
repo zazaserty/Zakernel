@@ -1,5 +1,0 @@
-drivers/ntb/hw/amd/ntb_hw_amd.o
-drivers/ntb/hw/idt/ntb_hw_idt.o
-drivers/ntb/hw/intel/ntb_hw_intel.o
-drivers/ntb/hw/epf/ntb_hw_epf.o
-drivers/ntb/hw/mscc/ntb_hw_switchtec.o

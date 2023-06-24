@@ -1,1 +1,0 @@
-savedcmd_drivers/media/cec/platform/cec-gpio/cec-gpio.mod := printf '%s\n'   cec-gpio.o | awk '!x[$$0]++ { print("drivers/media/cec/platform/cec-gpio/"$$0) }' > drivers/media/cec/platform/cec-gpio/cec-gpio.mod

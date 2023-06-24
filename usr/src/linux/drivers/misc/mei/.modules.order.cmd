@@ -1,1 +1,0 @@
-savedcmd_drivers/misc/mei/modules.order := {   echo drivers/misc/mei/mei.o;   echo drivers/misc/mei/mei-me.o;   echo drivers/misc/mei/mei-gsc.o;   echo drivers/misc/mei/mei-txe.o;   cat drivers/misc/mei/hdcp/modules.order;   cat drivers/misc/mei/pxp/modules.order; :; } > drivers/misc/mei/modules.order

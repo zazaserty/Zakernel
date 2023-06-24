@@ -1,1 +1,0 @@
-savedcmd_sound/soc/codecs/snd-soc-tda7419.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o sound/soc/codecs/snd-soc-tda7419.ko sound/soc/codecs/snd-soc-tda7419.o sound/soc/codecs/snd-soc-tda7419.mod.o;  true

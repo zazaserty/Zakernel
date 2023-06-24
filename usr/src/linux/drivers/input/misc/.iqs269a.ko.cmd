@@ -1,1 +1,0 @@
-savedcmd_drivers/input/misc/iqs269a.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/input/misc/iqs269a.ko drivers/input/misc/iqs269a.o drivers/input/misc/iqs269a.mod.o;  true

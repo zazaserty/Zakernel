@@ -1,1 +1,0 @@
-savedcmd_security/apparmor/apparmor_policy_unpack_test.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o security/apparmor/apparmor_policy_unpack_test.ko security/apparmor/apparmor_policy_unpack_test.o security/apparmor/apparmor_policy_unpack_test.mod.o;  true

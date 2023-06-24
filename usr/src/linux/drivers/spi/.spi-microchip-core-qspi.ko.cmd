@@ -1,1 +1,0 @@
-savedcmd_drivers/spi/spi-microchip-core-qspi.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/spi/spi-microchip-core-qspi.ko drivers/spi/spi-microchip-core-qspi.o drivers/spi/spi-microchip-core-qspi.mod.o;  true

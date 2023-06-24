@@ -1,1 +1,0 @@
-savedcmd_sound/pci/hda/snd-hda-scodec-cs35l41-i2c.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o sound/pci/hda/snd-hda-scodec-cs35l41-i2c.ko sound/pci/hda/snd-hda-scodec-cs35l41-i2c.o sound/pci/hda/snd-hda-scodec-cs35l41-i2c.mod.o;  true

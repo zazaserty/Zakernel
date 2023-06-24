@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/humidity/modules.order := {   echo drivers/iio/humidity/dht11.o;   echo drivers/iio/humidity/hdc2010.o;   echo drivers/iio/humidity/hid-sensor-humidity.o;   echo drivers/iio/humidity/hts221.o;   echo drivers/iio/humidity/hts221_i2c.o;   echo drivers/iio/humidity/hts221_spi.o; :; } > drivers/iio/humidity/modules.order

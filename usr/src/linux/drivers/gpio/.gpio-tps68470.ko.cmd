@@ -1,1 +1,0 @@
-savedcmd_drivers/gpio/gpio-tps68470.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/gpio/gpio-tps68470.ko drivers/gpio/gpio-tps68470.o drivers/gpio/gpio-tps68470.mod.o;  true

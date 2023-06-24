@@ -1,1 +1,0 @@
-savedcmd_drivers/auxdisplay/ht16k33.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/auxdisplay/ht16k33.ko drivers/auxdisplay/ht16k33.o drivers/auxdisplay/ht16k33.mod.o;  true

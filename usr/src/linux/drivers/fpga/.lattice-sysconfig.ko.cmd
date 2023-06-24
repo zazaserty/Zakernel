@@ -1,1 +1,0 @@
-savedcmd_drivers/fpga/lattice-sysconfig.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/fpga/lattice-sysconfig.ko drivers/fpga/lattice-sysconfig.o drivers/fpga/lattice-sysconfig.mod.o;  true

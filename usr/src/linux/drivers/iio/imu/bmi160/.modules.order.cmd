@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/imu/bmi160/modules.order := {   echo drivers/iio/imu/bmi160/bmi160_core.o;   echo drivers/iio/imu/bmi160/bmi160_i2c.o;   echo drivers/iio/imu/bmi160/bmi160_spi.o; :; } > drivers/iio/imu/bmi160/modules.order

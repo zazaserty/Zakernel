@@ -1,1 +1,0 @@
-savedcmd_drivers/media/rc/ir_toy.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/media/rc/ir_toy.ko drivers/media/rc/ir_toy.o drivers/media/rc/ir_toy.mod.o;  true

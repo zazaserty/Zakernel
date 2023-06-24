@@ -1,1 +1,0 @@
-savedcmd_drivers/hid/hid-topre.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hid/hid-topre.ko drivers/hid/hid-topre.o drivers/hid/hid-topre.mod.o;  true

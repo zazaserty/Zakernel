@@ -1,1 +1,0 @@
-savedcmd_drivers/input/touchscreen/himax_hx83112b.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/input/touchscreen/himax_hx83112b.ko drivers/input/touchscreen/himax_hx83112b.o drivers/input/touchscreen/himax_hx83112b.mod.o;  true

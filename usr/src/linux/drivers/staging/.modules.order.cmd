@@ -1,1 +1,0 @@
-savedcmd_drivers/staging/modules.order := {   cat drivers/staging/media/modules.order;   cat drivers/staging/rtl8192e/modules.order;   cat drivers/staging/rtl8723bs/modules.order;   cat drivers/staging/rtl8712/modules.order;   cat drivers/staging/iio/modules.order;   cat drivers/staging/qlge/modules.order; :; } > drivers/staging/modules.order

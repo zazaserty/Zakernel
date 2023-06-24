@@ -1,1 +1,0 @@
-savedcmd_drivers/pinctrl/intel/pinctrl-elkhartlake.mod := printf '%s\n'   pinctrl-elkhartlake.o | awk '!x[$$0]++ { print("drivers/pinctrl/intel/"$$0) }' > drivers/pinctrl/intel/pinctrl-elkhartlake.mod

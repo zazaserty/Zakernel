@@ -1,1 +1,0 @@
-savedcmd_drivers/nvdimm/nd_e820.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/nvdimm/nd_e820.ko drivers/nvdimm/nd_e820.o drivers/nvdimm/nd_e820.mod.o;  true

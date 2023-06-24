@@ -1,1 +1,0 @@
-savedcmd_drivers/staging/rtl8192e/rtl8192e/r8192e_pci.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/staging/rtl8192e/rtl8192e/r8192e_pci.ko drivers/staging/rtl8192e/rtl8192e/r8192e_pci.o drivers/staging/rtl8192e/rtl8192e/r8192e_pci.mod.o;  true

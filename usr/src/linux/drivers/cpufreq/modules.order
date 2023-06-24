@@ -1,4 +1,0 @@
-drivers/cpufreq/acpi-cpufreq.o
-drivers/cpufreq/pcc-cpufreq.o
-drivers/cpufreq/speedstep-lib.o
-drivers/cpufreq/p4-clockmod.o

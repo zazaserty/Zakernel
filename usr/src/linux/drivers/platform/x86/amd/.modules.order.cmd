@@ -1,1 +1,0 @@
-savedcmd_drivers/platform/x86/amd/modules.order := {   echo drivers/platform/x86/amd/amd-pmc.o;   echo drivers/platform/x86/amd/amd_hsmp.o;   cat drivers/platform/x86/amd/pmf/modules.order; :; } > drivers/platform/x86/amd/modules.order

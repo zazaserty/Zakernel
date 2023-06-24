@@ -1,1 +1,0 @@
-savedcmd_drivers/atm/suni.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/atm/suni.ko drivers/atm/suni.o drivers/atm/suni.mod.o;  true

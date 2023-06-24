@@ -1,1 +1,0 @@
-savedcmd_arch/x86/platform/intel-mid/built-in.a := rm -f arch/x86/platform/intel-mid/built-in.a;  printf "arch/x86/platform/intel-mid/%s " intel-mid.o pwr.o | xargs ar cDPrST arch/x86/platform/intel-mid/built-in.a

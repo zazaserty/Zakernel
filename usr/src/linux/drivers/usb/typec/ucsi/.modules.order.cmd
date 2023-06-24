@@ -1,1 +1,0 @@
-savedcmd_drivers/usb/typec/ucsi/modules.order := {   echo drivers/usb/typec/ucsi/typec_ucsi.o;   echo drivers/usb/typec/ucsi/ucsi_acpi.o;   echo drivers/usb/typec/ucsi/ucsi_ccg.o;   echo drivers/usb/typec/ucsi/ucsi_stm32g0.o; :; } > drivers/usb/typec/ucsi/modules.order

@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/proximity/modules.order := {   echo drivers/iio/proximity/mb1232.o;   echo drivers/iio/proximity/sx9310.o;   echo drivers/iio/proximity/sx9324.o;   echo drivers/iio/proximity/sx9360.o;   echo drivers/iio/proximity/sx_common.o;   echo drivers/iio/proximity/vcnl3020.o;   echo drivers/iio/proximity/vl53l0x-i2c.o; :; } > drivers/iio/proximity/modules.order

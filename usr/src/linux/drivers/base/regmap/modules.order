@@ -1,5 +1,0 @@
-drivers/base/regmap/regmap-spi.o
-drivers/base/regmap/regmap-sdw.o
-drivers/base/regmap/regmap-sdw-mbq.o
-drivers/base/regmap/regmap-sccb.o
-drivers/base/regmap/regmap-spi-avmm.o

@@ -1,1 +1,0 @@
-savedcmd_drivers/nvme/common/nvme-common.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/nvme/common/nvme-common.ko drivers/nvme/common/nvme-common.o drivers/nvme/common/nvme-common.mod.o;  true

@@ -1,1 +1,0 @@
-savedcmd_drivers/media/test-drivers/visl/visl.mod := printf '%s\n'   visl-core.o visl-video.o visl-dec.o visl-trace-points.o | awk '!x[$$0]++ { print("drivers/media/test-drivers/visl/"$$0) }' > drivers/media/test-drivers/visl/visl.mod

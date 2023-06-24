@@ -1,1 +1,0 @@
-savedcmd_drivers/nvme/target/modules.order := {   echo drivers/nvme/target/nvmet.o;   echo drivers/nvme/target/nvme-loop.o;   echo drivers/nvme/target/nvmet-fc.o;   echo drivers/nvme/target/nvme-fcloop.o;   echo drivers/nvme/target/nvmet-tcp.o; :; } > drivers/nvme/target/modules.order

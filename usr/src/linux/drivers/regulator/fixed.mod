@@ -1,1 +1,0 @@
-drivers/regulator/fixed.o

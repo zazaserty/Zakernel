@@ -1,1 +1,0 @@
-savedcmd_net/netfilter/nft_socket.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o net/netfilter/nft_socket.ko net/netfilter/nft_socket.o net/netfilter/nft_socket.mod.o;  true

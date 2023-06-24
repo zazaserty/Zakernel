@@ -1,1 +1,0 @@
-savedcmd_drivers/scsi/aic7xxx/aic79xx.mod := printf '%s\n'   aic79xx_core.o aic79xx_pci.o aic79xx_osm.o aic79xx_proc.o aic79xx_osm_pci.o | awk '!x[$$0]++ { print("drivers/scsi/aic7xxx/"$$0) }' > drivers/scsi/aic7xxx/aic79xx.mod

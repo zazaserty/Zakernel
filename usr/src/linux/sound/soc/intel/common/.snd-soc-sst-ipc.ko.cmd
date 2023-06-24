@@ -1,1 +1,0 @@
-savedcmd_sound/soc/intel/common/snd-soc-sst-ipc.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o sound/soc/intel/common/snd-soc-sst-ipc.ko sound/soc/intel/common/snd-soc-sst-ipc.o sound/soc/intel/common/snd-soc-sst-ipc.mod.o;  true

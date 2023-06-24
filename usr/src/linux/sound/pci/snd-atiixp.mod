@@ -1,1 +1,0 @@
-sound/pci/atiixp.o

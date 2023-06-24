@@ -1,1 +1,0 @@
-savedcmd_drivers/soundwire/modules.order := {   echo drivers/soundwire/soundwire-bus.o;   echo drivers/soundwire/soundwire-generic-allocation.o;   echo drivers/soundwire/soundwire-cadence.o;   echo drivers/soundwire/soundwire-intel.o; :; } > drivers/soundwire/modules.order

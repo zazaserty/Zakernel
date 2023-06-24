@@ -1,1 +1,0 @@
-savedcmd_drivers/pci/controller/modules.order := {   cat drivers/pci/controller/dwc/modules.order;   cat drivers/pci/controller/mobiveil/modules.order;   echo drivers/pci/controller/vmd.o; :; } > drivers/pci/controller/modules.order

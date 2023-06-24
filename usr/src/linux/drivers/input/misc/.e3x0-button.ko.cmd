@@ -1,1 +1,0 @@
-savedcmd_drivers/input/misc/e3x0-button.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/input/misc/e3x0-button.ko drivers/input/misc/e3x0-button.o drivers/input/misc/e3x0-button.mod.o;  true

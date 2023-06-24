@@ -1,1 +1,0 @@
-savedcmd_net/netfilter/nft_reject_netdev.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o net/netfilter/nft_reject_netdev.ko net/netfilter/nft_reject_netdev.o net/netfilter/nft_reject_netdev.mod.o;  true

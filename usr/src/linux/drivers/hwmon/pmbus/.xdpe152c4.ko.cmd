@@ -1,1 +1,0 @@
-savedcmd_drivers/hwmon/pmbus/xdpe152c4.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/pmbus/xdpe152c4.ko drivers/hwmon/pmbus/xdpe152c4.o drivers/hwmon/pmbus/xdpe152c4.mod.o;  true

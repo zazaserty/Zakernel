@@ -1,1 +1,0 @@
-savedcmd_drivers/media/platform/cadence/modules.order := {   echo drivers/media/platform/cadence/cdns-csi2rx.o;   echo drivers/media/platform/cadence/cdns-csi2tx.o; :; } > drivers/media/platform/cadence/modules.order

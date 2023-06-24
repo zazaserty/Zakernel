@@ -1,1 +1,0 @@
-savedcmd_drivers/cpufreq/modules.order := {   echo drivers/cpufreq/acpi-cpufreq.o;   echo drivers/cpufreq/pcc-cpufreq.o;   echo drivers/cpufreq/speedstep-lib.o;   echo drivers/cpufreq/p4-clockmod.o; :; } > drivers/cpufreq/modules.order

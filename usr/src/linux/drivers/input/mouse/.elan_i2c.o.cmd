@@ -1,3 +1,0 @@
-savedcmd_drivers/input/mouse/elan_i2c.o := ld -m elf_x86_64 -z noexecstack --no-warn-rwx-segments   -r -o drivers/input/mouse/elan_i2c.o @drivers/input/mouse/elan_i2c.mod  ; ./tools/objtool/objtool --hacks=jump_label --hacks=noinstr --hacks=skylake --ibt --orc --retpoline --rethunk --sls --static-call --uaccess --prefix=16  --link  --module drivers/input/mouse/elan_i2c.o
-
-drivers/input/mouse/elan_i2c.o: $(wildcard ./tools/objtool/objtool)

@@ -1,1 +1,0 @@
-savedcmd_drivers/watchdog/ie6xx_wdt.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/watchdog/ie6xx_wdt.ko drivers/watchdog/ie6xx_wdt.o drivers/watchdog/ie6xx_wdt.mod.o;  true

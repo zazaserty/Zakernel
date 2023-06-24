@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/marvell/prestera/prestera_pci.mod := printf '%s\n'   prestera_pci.o | awk '!x[$$0]++ { print("drivers/net/ethernet/marvell/prestera/"$$0) }' > drivers/net/ethernet/marvell/prestera/prestera_pci.mod

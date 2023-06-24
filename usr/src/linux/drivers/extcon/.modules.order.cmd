@@ -1,1 +1,0 @@
-savedcmd_drivers/extcon/modules.order := {   echo drivers/extcon/extcon-axp288.o;   echo drivers/extcon/extcon-intel-int3496.o;   echo drivers/extcon/extcon-intel-cht-wc.o;   echo drivers/extcon/extcon-intel-mrfld.o;   echo drivers/extcon/extcon-usbc-tusb320.o; :; } > drivers/extcon/modules.order

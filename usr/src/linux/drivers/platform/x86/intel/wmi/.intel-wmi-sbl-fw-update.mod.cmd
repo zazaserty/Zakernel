@@ -1,1 +1,0 @@
-savedcmd_drivers/platform/x86/intel/wmi/intel-wmi-sbl-fw-update.mod := printf '%s\n'   sbl-fw-update.o | awk '!x[$$0]++ { print("drivers/platform/x86/intel/wmi/"$$0) }' > drivers/platform/x86/intel/wmi/intel-wmi-sbl-fw-update.mod

@@ -1,1 +1,0 @@
-savedcmd_drivers/misc/bcm-vk/bcm_vk.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/misc/bcm-vk/bcm_vk.ko drivers/misc/bcm-vk/bcm_vk.o drivers/misc/bcm-vk/bcm_vk.mod.o;  true

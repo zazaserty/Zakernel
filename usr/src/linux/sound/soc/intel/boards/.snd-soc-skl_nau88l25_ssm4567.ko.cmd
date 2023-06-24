@@ -1,1 +1,0 @@
-savedcmd_sound/soc/intel/boards/snd-soc-skl_nau88l25_ssm4567.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o sound/soc/intel/boards/snd-soc-skl_nau88l25_ssm4567.ko sound/soc/intel/boards/snd-soc-skl_nau88l25_ssm4567.o sound/soc/intel/boards/snd-soc-skl_nau88l25_ssm4567.mod.o;  true

@@ -1,1 +1,0 @@
-savedcmd_drivers/media/usb/dvb-usb-v2/dvb-usb-ec168.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/media/usb/dvb-usb-v2/dvb-usb-ec168.ko drivers/media/usb/dvb-usb-v2/dvb-usb-ec168.o drivers/media/usb/dvb-usb-v2/dvb-usb-ec168.mod.o;  true

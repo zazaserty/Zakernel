@@ -1,4 +1,0 @@
-drivers/pwm/pwm-dwc.o
-drivers/pwm/pwm-lpss.o
-drivers/pwm/pwm-lpss-pci.o
-drivers/pwm/pwm-lpss-platform.o

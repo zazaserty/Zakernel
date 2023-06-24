@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/buffer/industrialio-hw-consumer.mod := printf '%s\n'   industrialio-hw-consumer.o | awk '!x[$$0]++ { print("drivers/iio/buffer/"$$0) }' > drivers/iio/buffer/industrialio-hw-consumer.mod

@@ -1,1 +1,0 @@
-savedcmd_drivers/thermal/intel/intel_bxt_pmic_thermal.mod := printf '%s\n'   intel_bxt_pmic_thermal.o | awk '!x[$$0]++ { print("drivers/thermal/intel/"$$0) }' > drivers/thermal/intel/intel_bxt_pmic_thermal.mod

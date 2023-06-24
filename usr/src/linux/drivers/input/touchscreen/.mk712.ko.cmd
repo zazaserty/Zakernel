@@ -1,1 +1,0 @@
-savedcmd_drivers/input/touchscreen/mk712.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/input/touchscreen/mk712.ko drivers/input/touchscreen/mk712.o drivers/input/touchscreen/mk712.mod.o;  true

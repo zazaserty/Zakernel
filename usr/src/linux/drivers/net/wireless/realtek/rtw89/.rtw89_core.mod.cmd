@@ -1,1 +1,0 @@
-savedcmd_drivers/net/wireless/realtek/rtw89/rtw89_core.mod := printf '%s\n'   core.o mac80211.o mac.o phy.o fw.o cam.o efuse.o regd.o sar.o coex.o ps.o chan.o ser.o wow.o | awk '!x[$$0]++ { print("drivers/net/wireless/realtek/rtw89/"$$0) }' > drivers/net/wireless/realtek/rtw89/rtw89_core.mod

@@ -1,1 +1,0 @@
-savedcmd_sound/soc/intel/boards/snd-soc-sst-glk-rt5682_max98357a.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o sound/soc/intel/boards/snd-soc-sst-glk-rt5682_max98357a.ko sound/soc/intel/boards/snd-soc-sst-glk-rt5682_max98357a.o sound/soc/intel/boards/snd-soc-sst-glk-rt5682_max98357a.mod.o;  true

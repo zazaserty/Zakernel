@@ -1,1 +1,0 @@
-savedcmd_sound/soc/codecs/snd-soc-pcm1789-codec.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o sound/soc/codecs/snd-soc-pcm1789-codec.ko sound/soc/codecs/snd-soc-pcm1789-codec.o sound/soc/codecs/snd-soc-pcm1789-codec.mod.o;  true

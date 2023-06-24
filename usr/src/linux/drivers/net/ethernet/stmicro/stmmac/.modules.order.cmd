@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/stmicro/stmmac/modules.order := {   echo drivers/net/ethernet/stmicro/stmmac/stmmac.o;   echo drivers/net/ethernet/stmicro/stmmac/dwmac-intel.o; :; } > drivers/net/ethernet/stmicro/stmmac/modules.order

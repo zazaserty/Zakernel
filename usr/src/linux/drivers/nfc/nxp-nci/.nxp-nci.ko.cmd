@@ -1,1 +1,0 @@
-savedcmd_drivers/nfc/nxp-nci/nxp-nci.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/nfc/nxp-nci/nxp-nci.ko drivers/nfc/nxp-nci/nxp-nci.o drivers/nfc/nxp-nci/nxp-nci.mod.o;  true

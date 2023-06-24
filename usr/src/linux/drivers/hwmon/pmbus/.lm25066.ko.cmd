@@ -1,1 +1,0 @@
-savedcmd_drivers/hwmon/pmbus/lm25066.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/pmbus/lm25066.ko drivers/hwmon/pmbus/lm25066.o drivers/hwmon/pmbus/lm25066.mod.o;  true

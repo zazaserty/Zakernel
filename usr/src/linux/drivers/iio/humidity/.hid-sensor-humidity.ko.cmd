@@ -1,1 +1,0 @@
-savedcmd_drivers/iio/humidity/hid-sensor-humidity.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/iio/humidity/hid-sensor-humidity.ko drivers/iio/humidity/hid-sensor-humidity.o drivers/iio/humidity/hid-sensor-humidity.mod.o;  true

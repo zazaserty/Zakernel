@@ -1,1 +1,0 @@
-savedcmd_drivers/net/ethernet/wangxun/libwx/libwx.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/ethernet/wangxun/libwx/libwx.ko drivers/net/ethernet/wangxun/libwx/libwx.o drivers/net/ethernet/wangxun/libwx/libwx.mod.o;  true

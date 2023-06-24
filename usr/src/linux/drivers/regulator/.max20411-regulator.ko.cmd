@@ -1,1 +1,0 @@
-savedcmd_drivers/regulator/max20411-regulator.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/regulator/max20411-regulator.ko drivers/regulator/max20411-regulator.o drivers/regulator/max20411-regulator.mod.o;  true

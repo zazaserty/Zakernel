@@ -1,1 +1,0 @@
-savedcmd_drivers/usb/typec/mux/modules.order := {   echo drivers/usb/typec/mux/fsa4480.o;   echo drivers/usb/typec/mux/gpio-sbu-mux.o;   echo drivers/usb/typec/mux/pi3usb30532.o;   echo drivers/usb/typec/mux/intel_pmc_mux.o; :; } > drivers/usb/typec/mux/modules.order

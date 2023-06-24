@@ -1,1 +1,0 @@
-savedcmd_drivers/mtd/devices/mchp48l640.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/mtd/devices/mchp48l640.ko drivers/mtd/devices/mchp48l640.o drivers/mtd/devices/mchp48l640.mod.o;  true

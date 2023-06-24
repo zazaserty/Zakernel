@@ -1,7 +1,0 @@
-drivers/hwtracing/stm/stm_core.o
-drivers/hwtracing/stm/stm_p_basic.o
-drivers/hwtracing/stm/stm_p_sys-t.o
-drivers/hwtracing/stm/dummy_stm.o
-drivers/hwtracing/stm/stm_console.o
-drivers/hwtracing/stm/stm_heartbeat.o
-drivers/hwtracing/stm/stm_ftrace.o

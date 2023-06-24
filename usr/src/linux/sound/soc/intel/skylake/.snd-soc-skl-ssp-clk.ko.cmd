@@ -1,1 +1,0 @@
-savedcmd_sound/soc/intel/skylake/snd-soc-skl-ssp-clk.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o sound/soc/intel/skylake/snd-soc-skl-ssp-clk.ko sound/soc/intel/skylake/snd-soc-skl-ssp-clk.o sound/soc/intel/skylake/snd-soc-skl-ssp-clk.mod.o;  true

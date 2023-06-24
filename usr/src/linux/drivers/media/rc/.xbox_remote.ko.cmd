@@ -1,1 +1,0 @@
-savedcmd_drivers/media/rc/xbox_remote.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/media/rc/xbox_remote.ko drivers/media/rc/xbox_remote.o drivers/media/rc/xbox_remote.mod.o;  true

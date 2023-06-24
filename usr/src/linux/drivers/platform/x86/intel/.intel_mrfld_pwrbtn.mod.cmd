@@ -1,1 +1,0 @@
-savedcmd_drivers/platform/x86/intel/intel_mrfld_pwrbtn.mod := printf '%s\n'   mrfld_pwrbtn.o | awk '!x[$$0]++ { print("drivers/platform/x86/intel/"$$0) }' > drivers/platform/x86/intel/intel_mrfld_pwrbtn.mod

@@ -1,5 +1,0 @@
-drivers/media/pci/saa7134/saa7134.o
-drivers/media/pci/saa7134/saa7134-empress.o
-drivers/media/pci/saa7134/saa7134-go7007.o
-drivers/media/pci/saa7134/saa7134-alsa.o
-drivers/media/pci/saa7134/saa7134-dvb.o

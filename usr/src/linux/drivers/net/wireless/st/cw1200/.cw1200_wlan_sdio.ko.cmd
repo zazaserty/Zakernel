@@ -1,1 +1,0 @@
-savedcmd_drivers/net/wireless/st/cw1200/cw1200_wlan_sdio.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/wireless/st/cw1200/cw1200_wlan_sdio.ko drivers/net/wireless/st/cw1200/cw1200_wlan_sdio.o drivers/net/wireless/st/cw1200/cw1200_wlan_sdio.mod.o;  true

@@ -1,1 +1,0 @@
-savedcmd_drivers/misc/eeprom/idt_89hpesx.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/misc/eeprom/idt_89hpesx.ko drivers/misc/eeprom/idt_89hpesx.o drivers/misc/eeprom/idt_89hpesx.mod.o;  true

@@ -1,1 +1,0 @@
-savedcmd_drivers/acpi/dptf/dptf_pch_fivr.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/acpi/dptf/dptf_pch_fivr.ko drivers/acpi/dptf/dptf_pch_fivr.o drivers/acpi/dptf/dptf_pch_fivr.mod.o;  true

@@ -1,3 +1,0 @@
-drivers/parport/parport.o
-drivers/parport/parport_pc.o
-drivers/parport/parport_serial.o

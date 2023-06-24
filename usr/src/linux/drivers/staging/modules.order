@@ -1,9 +1,0 @@
-drivers/staging/media/ipu3/ipu3-imgu.o
-drivers/staging/rtl8192e/rtllib.o
-drivers/staging/rtl8192e/rtllib_crypt_ccmp.o
-drivers/staging/rtl8192e/rtllib_crypt_tkip.o
-drivers/staging/rtl8192e/rtllib_crypt_wep.o
-drivers/staging/rtl8192e/rtl8192e/r8192e_pci.o
-drivers/staging/rtl8723bs/r8723bs.o
-drivers/staging/rtl8712/r8712u.o
-drivers/staging/qlge/qlge.o

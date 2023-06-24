@@ -1,1 +1,0 @@
-savedcmd_drivers/soundwire/soundwire-cadence.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/soundwire/soundwire-cadence.ko drivers/soundwire/soundwire-cadence.o drivers/soundwire/soundwire-cadence.mod.o;  true

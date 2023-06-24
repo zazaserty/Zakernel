@@ -1,1 +1,0 @@
-savedcmd_drivers/input/joystick/adi.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/input/joystick/adi.ko drivers/input/joystick/adi.o drivers/input/joystick/adi.mod.o;  true

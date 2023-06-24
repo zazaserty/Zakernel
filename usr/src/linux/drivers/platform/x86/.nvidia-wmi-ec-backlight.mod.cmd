@@ -1,1 +1,0 @@
-savedcmd_drivers/platform/x86/nvidia-wmi-ec-backlight.mod := printf '%s\n'   nvidia-wmi-ec-backlight.o | awk '!x[$$0]++ { print("drivers/platform/x86/"$$0) }' > drivers/platform/x86/nvidia-wmi-ec-backlight.mod

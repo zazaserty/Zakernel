@@ -1,1 +1,0 @@
-savedcmd_drivers/rtc/rtc-mcp795.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/rtc/rtc-mcp795.ko drivers/rtc/rtc-mcp795.o drivers/rtc/rtc-mcp795.mod.o;  true

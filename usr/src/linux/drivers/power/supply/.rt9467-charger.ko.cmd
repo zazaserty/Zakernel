@@ -1,1 +1,0 @@
-savedcmd_drivers/power/supply/rt9467-charger.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/power/supply/rt9467-charger.ko drivers/power/supply/rt9467-charger.o drivers/power/supply/rt9467-charger.mod.o;  true

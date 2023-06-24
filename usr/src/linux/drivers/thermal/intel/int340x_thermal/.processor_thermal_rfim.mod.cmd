@@ -1,1 +1,0 @@
-savedcmd_drivers/thermal/intel/int340x_thermal/processor_thermal_rfim.mod := printf '%s\n'   processor_thermal_rfim.o | awk '!x[$$0]++ { print("drivers/thermal/intel/int340x_thermal/"$$0) }' > drivers/thermal/intel/int340x_thermal/processor_thermal_rfim.mod

@@ -1,1 +1,0 @@
-savedcmd_drivers/gnss/gnss-serial.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/gnss/gnss-serial.ko drivers/gnss/gnss-serial.o drivers/gnss/gnss-serial.mod.o;  true

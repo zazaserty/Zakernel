@@ -1,1 +1,0 @@
-savedcmd_security/apparmor/apparmor_policy_unpack_test.mod := printf '%s\n'   policy_unpack_test.o | awk '!x[$$0]++ { print("security/apparmor/"$$0) }' > security/apparmor/apparmor_policy_unpack_test.mod

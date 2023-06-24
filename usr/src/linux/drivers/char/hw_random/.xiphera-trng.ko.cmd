@@ -1,1 +1,0 @@
-savedcmd_drivers/char/hw_random/xiphera-trng.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/char/hw_random/xiphera-trng.ko drivers/char/hw_random/xiphera-trng.o drivers/char/hw_random/xiphera-trng.mod.o;  true

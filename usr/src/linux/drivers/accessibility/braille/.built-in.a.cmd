@@ -1,1 +1,0 @@
-savedcmd_drivers/accessibility/braille/built-in.a := rm -f drivers/accessibility/braille/built-in.a;  printf "drivers/accessibility/braille/%s " braille_console.o | xargs ar cDPrST drivers/accessibility/braille/built-in.a

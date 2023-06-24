@@ -1,1 +1,0 @@
-savedcmd_drivers/hwmon/adm9240.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/adm9240.ko drivers/hwmon/adm9240.o drivers/hwmon/adm9240.mod.o;  true

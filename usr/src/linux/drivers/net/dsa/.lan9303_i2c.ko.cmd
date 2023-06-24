@@ -1,1 +1,0 @@
-savedcmd_drivers/net/dsa/lan9303_i2c.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/dsa/lan9303_i2c.ko drivers/net/dsa/lan9303_i2c.o drivers/net/dsa/lan9303_i2c.mod.o;  true
