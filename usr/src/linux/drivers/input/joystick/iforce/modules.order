@@ -1,0 +1,3 @@
+drivers/input/joystick/iforce/iforce.o
+drivers/input/joystick/iforce/iforce-serio.o
+drivers/input/joystick/iforce/iforce-usb.o

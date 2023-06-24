@@ -1,0 +1,4 @@
+sound/i2c/other/snd-ak4xxx-adda.o
+sound/i2c/other/snd-ak4114.o
+sound/i2c/other/snd-ak4113.o
+sound/i2c/other/snd-pt2258.o

@@ -1,0 +1,13 @@
+sound/drivers/snd-dummy.o
+sound/drivers/snd-aloop.o
+sound/drivers/snd-virmidi.o
+sound/drivers/snd-serial-u16550.o
+sound/drivers/snd-mtpav.o
+sound/drivers/snd-mts64.o
+sound/drivers/snd-portman2x4.o
+sound/drivers/opl3/snd-opl3-lib.o
+sound/drivers/opl3/snd-opl3-synth.o
+sound/drivers/mpu401/snd-mpu401-uart.o
+sound/drivers/mpu401/snd-mpu401.o
+sound/drivers/vx/snd-vx-lib.o
+sound/drivers/pcsp/snd-pcsp.o

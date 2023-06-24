@@ -1,0 +1,113 @@
+!<thin>
+//                                              758       `
+access.o/
+bus.o/
+probe.o/
+host-bridge.o/
+remove.o/
+pci.o/
+pci-driver.o/
+search.o/
+pci-sysfs.o/
+rom.o/
+setup-res.o/
+irq.o/
+vpd.o/
+setup-bus.o/
+vc.o/
+mmap.o/
+setup-irq.o/
+msi/pcidev_msi.o/
+msi/api.o/
+msi/msi.o/
+msi/irqdomain.o/
+pcie/portdrv.o/
+pcie/rcec.o/
+pcie/aspm.o/
+pcie/aer.o/
+pcie/err.o/
+pcie/pme.o/
+pcie/dpc.o/
+pcie/ptm.o/
+pcie/edr.o/
+proc.o/
+slot.o/
+pci-acpi.o/
+quirks.o/
+hotplug/pci_hotplug_core.o/
+hotplug/acpi_pcihp.o/
+hotplug/pciehp_core.o/
+hotplug/pciehp_ctrl.o/
+hotplug/pciehp_pci.o/
+hotplug/pciehp_hpc.o/
+hotplug/shpchp_core.o/
+hotplug/shpchp_ctrl.o/
+hotplug/shpchp_pci.o/
+hotplug/shpchp_sysfs.o/
+hotplug/shpchp_hpc.o/
+hotplug/acpiphp_core.o/
+hotplug/acpiphp_glue.o/
+ats.o/
+iov.o/
+pci-label.o/
+pci-mid.o/
+pci-stub.o/
+p2pdma.o/
+vgaarb.o/
+doe.o/
+
+/0              0           0     0     644     39816     `
+/10             0           0     0     644     18936     `
+/17             0           0     0     644     95984     `
+/26             0           0     0     644     6224      `
+/41             0           0     0     644     8864      `
+/51             0           0     0     644     224640    `
+/58             0           0     0     644     46864     `
+/72             0           0     0     644     13472     `
+/82             0           0     0     644     65616     `
+/95             0           0     0     644     7872      `
+/102            0           0     0     644     20216     `
+/115            0           0     0     644     3832      `
+/122            0           0     0     644     22720     `
+/129            0           0     0     644     54080     `
+/142            0           0     0     644     10648     `
+/148            0           0     0     644     2640      `
+/156            0           0     0     644     3840      `
+/169            0           0     0     644     2624      `
+/187            0           0     0     644     19672     `
+/198            0           0     0     644     24720     `
+/209            0           0     0     644     13992     `
+/226            0           0     0     644     22856     `
+/242            0           0     0     644     6664      `
+/255            0           0     0     644     37312     `
+/268            0           0     0     644     46736     `
+/280            0           0     0     644     11304     `
+/292            0           0     0     644     14088     `
+/304            0           0     0     644     20432     `
+/316            0           0     0     644     9424      `
+/328            0           0     0     644     12904     `
+/340            0           0     0     644     14360     `
+/348            0           0     0     644     17344     `
+/356            0           0     0     644     34184     `
+/368            0           0     0     644     275992    `
+/378            0           0     0     644     21248     `
+/406            0           0     0     644     11424     `
+/428            0           0     0     644     17128     `
+/451            0           0     0     644     19096     `
+/474            0           0     0     644     6528      `
+/496            0           0     0     644     40752     `
+/518            0           0     0     644     20560     `
+/541            0           0     0     644     37784     `
+/564            0           0     0     644     5288      `
+/586            0           0     0     644     4152      `
+/610            0           0     0     644     35744     `
+/632            0           0     0     644     16272     `
+/656            0           0     0     644     26344     `
+/680            0           0     0     644     16864     `
+/687            0           0     0     644     40456     `
+/694            0           0     0     644     6880      `
+/707            0           0     0     644     3872      `
+/718            0           0     0     644     9152      `
+/730            0           0     0     644     34392     `
+/740            0           0     0     644     41888     `
+/750            0           0     0     644     18376     `

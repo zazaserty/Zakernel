@@ -1,0 +1,3 @@
+drivers/scsi/megaraid/megaraid_mm.o
+drivers/scsi/megaraid/megaraid_mbox.o
+drivers/scsi/megaraid/megaraid_sas.o

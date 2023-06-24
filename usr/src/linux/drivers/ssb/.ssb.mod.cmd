@@ -1,0 +1,1 @@
+savedcmd_drivers/ssb/ssb.mod := printf '%s\n'   main.o scan.o sprom.o pci.o pcihost_wrapper.o sdio.o driver_chipcommon.o driver_chipcommon_pmu.o driver_pcicore.o driver_gpio.o b43_pci_bridge.o | awk '!x[$$0]++ { print("drivers/ssb/"$$0) }' > drivers/ssb/ssb.mod

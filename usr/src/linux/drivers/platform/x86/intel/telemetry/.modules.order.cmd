@@ -1,0 +1,1 @@
+savedcmd_drivers/platform/x86/intel/telemetry/modules.order := {   echo drivers/platform/x86/intel/telemetry/intel_telemetry_core.o;   echo drivers/platform/x86/intel/telemetry/intel_telemetry_pltdrv.o;   echo drivers/platform/x86/intel/telemetry/intel_telemetry_debugfs.o; :; } > drivers/platform/x86/intel/telemetry/modules.order

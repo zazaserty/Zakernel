@@ -1,0 +1,6 @@
+drivers/misc/mei/mei.o
+drivers/misc/mei/mei-me.o
+drivers/misc/mei/mei-gsc.o
+drivers/misc/mei/mei-txe.o
+drivers/misc/mei/hdcp/mei_hdcp.o
+drivers/misc/mei/pxp/mei_pxp.o

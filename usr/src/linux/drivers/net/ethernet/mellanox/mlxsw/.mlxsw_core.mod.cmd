@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/mellanox/mlxsw/mlxsw_core.mod := printf '%s\n'   core.o core_acl_flex_keys.o core_acl_flex_actions.o core_env.o core_linecards.o core_linecard_dev.o core_hwmon.o core_thermal.o | awk '!x[$$0]++ { print("drivers/net/ethernet/mellanox/mlxsw/"$$0) }' > drivers/net/ethernet/mellanox/mlxsw/mlxsw_core.mod

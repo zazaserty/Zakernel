@@ -1,0 +1,5 @@
+drivers/clk/xilinx/xlnx_vcu.o
+drivers/clk/clk_test.o
+drivers/clk/clk-gate_test.o
+drivers/clk/clk-si544.o
+drivers/clk/clk-tps68470.o

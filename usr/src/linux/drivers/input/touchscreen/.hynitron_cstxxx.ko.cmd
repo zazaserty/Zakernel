@@ -1,0 +1,1 @@
+savedcmd_drivers/input/touchscreen/hynitron_cstxxx.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/input/touchscreen/hynitron_cstxxx.ko drivers/input/touchscreen/hynitron_cstxxx.o drivers/input/touchscreen/hynitron_cstxxx.mod.o;  true

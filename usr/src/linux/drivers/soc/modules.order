@@ -1,0 +1,2 @@
+drivers/soc/nuvoton/wpcm450-soc.o
+drivers/soc/qcom/qmi_helpers.o

@@ -1,0 +1,8 @@
+drivers/char/ipmi/ipmi_msghandler.o
+drivers/char/ipmi/ipmi_devintf.o
+drivers/char/ipmi/ipmi_si.o
+drivers/char/ipmi/ipmi_ssif.o
+drivers/char/ipmi/ipmi_ipmb.o
+drivers/char/ipmi/ipmi_watchdog.o
+drivers/char/ipmi/ipmi_poweroff.o
+drivers/char/ipmi/ssif_bmc.o

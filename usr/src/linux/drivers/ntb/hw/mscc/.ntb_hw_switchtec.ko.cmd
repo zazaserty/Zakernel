@@ -1,0 +1,1 @@
+savedcmd_drivers/ntb/hw/mscc/ntb_hw_switchtec.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/ntb/hw/mscc/ntb_hw_switchtec.ko drivers/ntb/hw/mscc/ntb_hw_switchtec.o drivers/ntb/hw/mscc/ntb_hw_switchtec.mod.o;  true

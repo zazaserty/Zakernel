@@ -1,0 +1,5 @@
+drivers/nvme/host/nvme-core.o
+drivers/nvme/host/nvme.o
+drivers/nvme/host/nvme-fabrics.o
+drivers/nvme/host/nvme-fc.o
+drivers/nvme/host/nvme-tcp.o

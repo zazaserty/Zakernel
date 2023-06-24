@@ -1,0 +1,1 @@
+savedcmd_drivers/acpi/acpi_extlog.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/acpi/acpi_extlog.ko drivers/acpi/acpi_extlog.o drivers/acpi/acpi_extlog.mod.o;  true

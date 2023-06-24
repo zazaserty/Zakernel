@@ -1,0 +1,1 @@
+savedcmd_drivers/auxdisplay/cfag12864b.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/auxdisplay/cfag12864b.ko drivers/auxdisplay/cfag12864b.o drivers/auxdisplay/cfag12864b.mod.o;  true

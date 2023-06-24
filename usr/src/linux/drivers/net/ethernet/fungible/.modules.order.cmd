@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/fungible/modules.order := {   cat drivers/net/ethernet/fungible/funcore/modules.order;   cat drivers/net/ethernet/fungible/funeth/modules.order; :; } > drivers/net/ethernet/fungible/modules.order

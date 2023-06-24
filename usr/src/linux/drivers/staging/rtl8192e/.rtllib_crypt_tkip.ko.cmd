@@ -1,0 +1,1 @@
+savedcmd_drivers/staging/rtl8192e/rtllib_crypt_tkip.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/staging/rtl8192e/rtllib_crypt_tkip.ko drivers/staging/rtl8192e/rtllib_crypt_tkip.o drivers/staging/rtl8192e/rtllib_crypt_tkip.mod.o;  true

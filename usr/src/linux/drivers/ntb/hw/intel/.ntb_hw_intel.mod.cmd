@@ -1,0 +1,1 @@
+savedcmd_drivers/ntb/hw/intel/ntb_hw_intel.mod := printf '%s\n'   ntb_hw_gen1.o ntb_hw_gen3.o ntb_hw_gen4.o | awk '!x[$$0]++ { print("drivers/ntb/hw/intel/"$$0) }' > drivers/ntb/hw/intel/ntb_hw_intel.mod

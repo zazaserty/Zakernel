@@ -1,0 +1,3 @@
+drivers/mmc/core/mmc_core.o
+drivers/mmc/core/mmc_block.o
+drivers/mmc/core/sdio_uart.o

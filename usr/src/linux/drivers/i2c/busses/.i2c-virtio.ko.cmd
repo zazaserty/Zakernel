@@ -1,0 +1,1 @@
+savedcmd_drivers/i2c/busses/i2c-virtio.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/i2c/busses/i2c-virtio.ko drivers/i2c/busses/i2c-virtio.o drivers/i2c/busses/i2c-virtio.mod.o;  true

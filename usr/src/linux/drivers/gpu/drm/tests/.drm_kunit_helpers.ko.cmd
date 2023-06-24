@@ -1,0 +1,1 @@
+savedcmd_drivers/gpu/drm/tests/drm_kunit_helpers.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/gpu/drm/tests/drm_kunit_helpers.ko drivers/gpu/drm/tests/drm_kunit_helpers.o drivers/gpu/drm/tests/drm_kunit_helpers.mod.o;  true

@@ -1,0 +1,1 @@
+savedcmd_drivers/auxdisplay/hd44780.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/auxdisplay/hd44780.ko drivers/auxdisplay/hd44780.o drivers/auxdisplay/hd44780.mod.o;  true

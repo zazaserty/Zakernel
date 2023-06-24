@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/altera/altera_tse.mod := printf '%s\n'   altera_tse_main.o altera_tse_ethtool.o altera_msgdma.o altera_sgdma.o altera_utils.o | awk '!x[$$0]++ { print("drivers/net/ethernet/altera/"$$0) }' > drivers/net/ethernet/altera/altera_tse.mod

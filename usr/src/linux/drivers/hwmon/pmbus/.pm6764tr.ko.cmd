@@ -1,0 +1,1 @@
+savedcmd_drivers/hwmon/pmbus/pm6764tr.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/pmbus/pm6764tr.ko drivers/hwmon/pmbus/pm6764tr.o drivers/hwmon/pmbus/pm6764tr.mod.o;  true

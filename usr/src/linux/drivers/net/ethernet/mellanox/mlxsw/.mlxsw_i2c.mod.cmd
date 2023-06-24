@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/mellanox/mlxsw/mlxsw_i2c.mod := printf '%s\n'   i2c.o | awk '!x[$$0]++ { print("drivers/net/ethernet/mellanox/mlxsw/"$$0) }' > drivers/net/ethernet/mellanox/mlxsw/mlxsw_i2c.mod

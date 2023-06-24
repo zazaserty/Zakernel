@@ -1,0 +1,5 @@
+drivers/net/ethernet/mellanox/mlxsw/mlxsw_core.o
+drivers/net/ethernet/mellanox/mlxsw/mlxsw_pci.o
+drivers/net/ethernet/mellanox/mlxsw/mlxsw_i2c.o
+drivers/net/ethernet/mellanox/mlxsw/mlxsw_spectrum.o
+drivers/net/ethernet/mellanox/mlxsw/mlxsw_minimal.o

@@ -1,0 +1,1 @@
+savedcmd_drivers/net/can/m_can/m_can_pci.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/can/m_can/m_can_pci.ko drivers/net/can/m_can/m_can_pci.o drivers/net/can/m_can/m_can_pci.mod.o;  true

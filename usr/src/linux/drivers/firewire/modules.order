@@ -1,0 +1,5 @@
+drivers/firewire/firewire-core.o
+drivers/firewire/firewire-ohci.o
+drivers/firewire/firewire-sbp2.o
+drivers/firewire/firewire-net.o
+drivers/firewire/nosy.o

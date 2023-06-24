@@ -1,0 +1,53 @@
+!<thin>
+//                                              388       `
+dmi_scan.o/
+dmi-sysfs.o/
+dmi-id.o/
+iscsi_ibft_find.o/
+memmap.o/
+sysfb.o/
+efi/efi-bgrt.o/
+efi/efi.o/
+efi/vars.o/
+efi/reboot.o/
+efi/memattr.o/
+efi/tpm.o/
+efi/memmap.o/
+efi/esrt.o/
+efi/efi-pstore.o/
+efi/cper.o/
+efi/cper_cxl.o/
+efi/runtime-wrappers.o/
+efi/dev-path-parser.o/
+efi/apple-properties.o/
+efi/rci2-table.o/
+efi/embedded-firmware.o/
+efi/sysfb_efi.o/
+efi/earlycon.o/
+efi/cper-x86.o/
+
+/0              0           0     0     644     40248     `
+/12             0           0     0     644     29712     `
+/25             0           0     0     644     13608     `
+/35             0           0     0     644     3872      `
+/54             0           0     0     644     11464     `
+/64             0           0     0     644     5232      `
+/73             0           0     0     644     5888      `
+/89             0           0     0     644     44760     `
+/100            0           0     0     644     15136     `
+/112            0           0     0     644     4848      `
+/126            0           0     0     644     9504      `
+/141            0           0     0     644     6672      `
+/152            0           0     0     644     5856      `
+/166            0           0     0     644     22168     `
+/178            0           0     0     644     10984     `
+/196            0           0     0     644     42736     `
+/208            0           0     0     644     9976      `
+/224            0           0     0     644     47208     `
+/248            0           0     0     644     3944      `
+/271            0           0     0     644     11992     `
+/295            0           0     0     644     8960      `
+/313            0           0     0     644     7848      `
+/338            0           0     0     644     27192     `
+/355            0           0     0     644     10768     `
+/371            0           0     0     644     16624     `

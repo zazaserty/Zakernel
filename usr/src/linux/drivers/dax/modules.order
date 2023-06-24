@@ -1,0 +1,5 @@
+drivers/dax/hmem/dax_hmem.o
+drivers/dax/device_dax.o
+drivers/dax/kmem.o
+drivers/dax/dax_pmem.o
+drivers/dax/dax_cxl.o

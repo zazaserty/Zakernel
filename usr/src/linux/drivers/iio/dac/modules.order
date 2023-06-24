@@ -1,0 +1,9 @@
+drivers/iio/dac/ad3552r.o
+drivers/iio/dac/ad5766.o
+drivers/iio/dac/ad5770r.o
+drivers/iio/dac/ad7293.o
+drivers/iio/dac/dpot-dac.o
+drivers/iio/dac/ltc1660.o
+drivers/iio/dac/ltc2688.o
+drivers/iio/dac/max5522.o
+drivers/iio/dac/ti-dac7311.o

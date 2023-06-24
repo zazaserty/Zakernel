@@ -1,0 +1,1 @@
+savedcmd_drivers/power/supply/ltc4162-l-charger.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/power/supply/ltc4162-l-charger.ko drivers/power/supply/ltc4162-l-charger.o drivers/power/supply/ltc4162-l-charger.mod.o;  true

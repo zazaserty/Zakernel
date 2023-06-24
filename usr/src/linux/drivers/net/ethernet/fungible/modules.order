@@ -1,0 +1,2 @@
+drivers/net/ethernet/fungible/funcore/funcore.o
+drivers/net/ethernet/fungible/funeth/funeth.o

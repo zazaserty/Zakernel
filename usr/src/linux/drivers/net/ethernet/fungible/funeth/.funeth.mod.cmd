@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/fungible/funeth/funeth.mod := printf '%s\n'   funeth_main.o funeth_rx.o funeth_tx.o funeth_devlink.o funeth_ethtool.o funeth_ktls.o | awk '!x[$$0]++ { print("drivers/net/ethernet/fungible/funeth/"$$0) }' > drivers/net/ethernet/fungible/funeth/funeth.mod

@@ -1,0 +1,14 @@
+drivers/acpi/apei/einj.o
+drivers/acpi/dptf/dptf_power.o
+drivers/acpi/dptf/dptf_pch_fivr.o
+drivers/acpi/acpi_ipmi.o
+drivers/acpi/video.o
+drivers/acpi/acpi_tad.o
+drivers/acpi/platform_profile.o
+drivers/acpi/nfit/nfit.o
+drivers/acpi/sbshc.o
+drivers/acpi/sbs.o
+drivers/acpi/pfr_update.o
+drivers/acpi/pfr_telemetry.o
+drivers/acpi/acpi_pad.o
+drivers/acpi/acpi_extlog.o

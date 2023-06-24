@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/mellanox/mlxsw/mlxsw_pci.mod := printf '%s\n'   pci.o | awk '!x[$$0]++ { print("drivers/net/ethernet/mellanox/mlxsw/"$$0) }' > drivers/net/ethernet/mellanox/mlxsw/mlxsw_pci.mod

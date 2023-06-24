@@ -1,0 +1,41 @@
+!<thin>
+//                                              328       `
+loopback.o/
+phy/mdio-boardinfo.o/
+phy/mdio_devres.o/
+phy/phy.o/
+phy/phy-c45.o/
+phy/phy-core.o/
+phy/phy_device.o/
+phy/linkmode.o/
+phy/mdio_bus.o/
+phy/mdio_device.o/
+phy/swphy.o/
+phy/phy_led_triggers.o/
+phy/mii_timestamper.o/
+phy/sfp-bus.o/
+phy/fixed_phy.o/
+phy/realtek.o/
+mdio/acpi_mdio.o/
+mdio/fwnode_mdio.o/
+wwan/wwan_core.o/
+
+/0              0           0     0     644     14088     `
+/12             0           0     0     644     4752      `
+/34             0           0     0     644     6056      `
+/53             0           0     0     644     57888     `
+/64             0           0     0     644     41416     `
+/79             0           0     0     644     36656     `
+/95             0           0     0     644     128952    `
+/113            0           0     0     644     3648      `
+/129            0           0     0     644     89560     `
+/145            0           0     0     644     14088     `
+/164            0           0     0     644     5336      `
+/177            0           0     0     644     6456      `
+/201            0           0     0     644     7296      `
+/224            0           0     0     644     30328     `
+/239            0           0     0     644     15008     `
+/256            0           0     0     644     43000     `
+/271            0           0     0     644     4616      `
+/289            0           0     0     644     7224      `
+/309            0           0     0     644     41248     `

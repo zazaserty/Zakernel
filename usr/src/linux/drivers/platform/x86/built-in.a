@@ -1,0 +1,33 @@
+!<thin>
+//                                              260       `
+intel/pmc/core.o/
+intel/pmc/spt.o/
+intel/pmc/cnp.o/
+intel/pmc/icl.o/
+intel/pmc/tgl.o/
+intel/pmc/adl.o/
+intel/pmc/mtl.o/
+intel/pmc/pltdrv.o/
+intel/smartconnect.o/
+intel/turbo_max_3.o/
+touchscreen_dmi.o/
+p2sb.o/
+intel_scu_ipc.o/
+intel_scu_pcidrv.o/
+pmc_atom.o/
+
+/0              0           0     0     644     47424     `
+/18             0           0     0     644     6576      `
+/35             0           0     0     644     8992      `
+/52             0           0     0     644     2984      `
+/69             0           0     0     644     13864     `
+/86             0           0     0     644     14704     `
+/103            0           0     0     644     3848      `
+/120            0           0     0     644     6256      `
+/140            0           0     0     644     5904      `
+/162            0           0     0     644     8312      `
+/183            0           0     0     644     75336     `
+/202            0           0     0     644     4208      `
+/210            0           0     0     644     26128     `
+/227            0           0     0     644     4352      `
+/247            0           0     0     644     21680     `

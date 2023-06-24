@@ -1,0 +1,1 @@
+savedcmd_drivers/mtd/devices/modules.order := {   echo drivers/mtd/devices/mtdram.o;   echo drivers/mtd/devices/block2mtd.o;   echo drivers/mtd/devices/mchp48l640.o; :; } > drivers/mtd/devices/modules.order

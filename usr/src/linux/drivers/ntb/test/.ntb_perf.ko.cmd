@@ -1,0 +1,1 @@
+savedcmd_drivers/ntb/test/ntb_perf.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/ntb/test/ntb_perf.ko drivers/ntb/test/ntb_perf.o drivers/ntb/test/ntb_perf.mod.o;  true

@@ -1,0 +1,9 @@
+drivers/xen/xen-pciback/xen-pciback.o
+drivers/xen/xen-evtchn.o
+drivers/xen/xen-gntdev.o
+drivers/xen/xen-gntalloc.o
+drivers/xen/xenfs/xenfs.o
+drivers/xen/xen-privcmd.o
+drivers/xen/xen-acpi-processor.o
+drivers/xen/xen-scsiback.o
+drivers/xen/xen-front-pgdir-shbuf.o

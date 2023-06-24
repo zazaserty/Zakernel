@@ -1,0 +1,9 @@
+drivers/net/wireless/mediatek/mt76/mt7996/pci.o
+drivers/net/wireless/mediatek/mt76/mt7996/init.o
+drivers/net/wireless/mediatek/mt76/mt7996/dma.o
+drivers/net/wireless/mediatek/mt76/mt7996/eeprom.o
+drivers/net/wireless/mediatek/mt76/mt7996/main.o
+drivers/net/wireless/mediatek/mt76/mt7996/mcu.o
+drivers/net/wireless/mediatek/mt76/mt7996/mac.o
+drivers/net/wireless/mediatek/mt76/mt7996/debugfs.o
+drivers/net/wireless/mediatek/mt76/mt7996/mmio.o

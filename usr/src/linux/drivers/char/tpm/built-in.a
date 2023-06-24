@@ -1,0 +1,39 @@
+!<thin>
+//                                              258       `
+tpm-chip.o/
+tpm-dev-common.o/
+tpm-dev.o/
+tpm-interface.o/
+tpm1-cmd.o/
+tpm2-cmd.o/
+tpmrm-dev.o/
+tpm2-space.o/
+tpm-sysfs.o/
+eventlog/common.o/
+eventlog/tpm1.o/
+eventlog/tpm2.o/
+tpm_ppi.o/
+eventlog/acpi.o/
+eventlog/efi.o/
+tpm_tis_core.o/
+tpm_tis.o/
+tpm_crb.o/
+
+/0              0           0     0     644     23032     `
+/12             0           0     0     644     10632     `
+/30             0           0     0     644     4456      `
+/41             0           0     0     644     24920     `
+/58             0           0     0     644     18896     `
+/70             0           0     0     644     20256     `
+/82             0           0     0     644     3304      `
+/95             0           0     0     644     16952     `
+/109            0           0     0     644     39728     `
+/122            0           0     0     644     6312      `
+/141            0           0     0     644     7848      `
+/158            0           0     0     644     4352      `
+/175            0           0     0     644     11608     `
+/186            0           0     0     644     4304      `
+/203            0           0     0     644     4872      `
+/219            0           0     0     644     39888     `
+/235            0           0     0     644     18496     `
+/246            0           0     0     644     25120     `

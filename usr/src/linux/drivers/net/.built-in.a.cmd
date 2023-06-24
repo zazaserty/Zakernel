@@ -1,0 +1,1 @@
+savedcmd_drivers/net/built-in.a := rm -f drivers/net/built-in.a;  printf "drivers/net/%s " loopback.o phy/built-in.a pse-pd/built-in.a mdio/built-in.a pcs/built-in.a ethernet/built-in.a hamradio/built-in.a wireless/built-in.a wwan/built-in.a mctp/built-in.a usb/built-in.a | xargs ar cDPrST drivers/net/built-in.a

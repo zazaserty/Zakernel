@@ -1,0 +1,15 @@
+!<thin>
+//                                              114       `
+led-core.o/
+led-class.o/
+led-triggers.o/
+trigger/ledtrig-disk.o/
+trigger/ledtrig-mtd.o/
+trigger/ledtrig-panic.o/
+
+/0              0           0     0     644     25624     `
+/12             0           0     0     644     31792     `
+/25             0           0     0     644     25456     `
+/41             0           0     0     644     4272      `
+/65             0           0     0     644     4024      `
+/88             0           0     0     644     4632      `

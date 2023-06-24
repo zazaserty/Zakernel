@@ -1,0 +1,1 @@
+savedcmd_drivers/mtd/nand/raw/modules.order := {   cat drivers/mtd/nand/raw/ingenic/modules.order;   echo drivers/mtd/nand/raw/nand.o;   echo drivers/mtd/nand/raw/nandsim.o; :; } > drivers/mtd/nand/raw/modules.order

@@ -1,0 +1,1 @@
+savedcmd_drivers/mfd/built-in.a := rm -f drivers/mfd/built-in.a;  printf "drivers/mfd/%s " mfd-core.o axp20x.o axp20x-i2c.o intel-lpss.o intel-lpss-pci.o intel-lpss-acpi.o syscon.o intel_soc_pmic_crc.o intel_soc_pmic_chtwc.o intel_soc_pmic_chtdc_ti.o | xargs ar cDPrST drivers/mfd/built-in.a

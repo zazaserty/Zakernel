@@ -1,0 +1,10 @@
+drivers/accessibility/speakup/speakup_acntsa.o
+drivers/accessibility/speakup/speakup_apollo.o
+drivers/accessibility/speakup/speakup_audptr.o
+drivers/accessibility/speakup/speakup_bns.o
+drivers/accessibility/speakup/speakup_dectlk.o
+drivers/accessibility/speakup/speakup_ltlk.o
+drivers/accessibility/speakup/speakup_soft.o
+drivers/accessibility/speakup/speakup_spkout.o
+drivers/accessibility/speakup/speakup_txprt.o
+drivers/accessibility/speakup/speakup.o

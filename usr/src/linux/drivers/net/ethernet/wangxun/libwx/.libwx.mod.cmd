@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/wangxun/libwx/libwx.mod := printf '%s\n'   wx_hw.o wx_lib.o wx_ethtool.o | awk '!x[$$0]++ { print("drivers/net/ethernet/wangxun/libwx/"$$0) }' > drivers/net/ethernet/wangxun/libwx/libwx.mod

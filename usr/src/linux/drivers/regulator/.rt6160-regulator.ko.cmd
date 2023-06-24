@@ -1,0 +1,1 @@
+savedcmd_drivers/regulator/rt6160-regulator.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/regulator/rt6160-regulator.ko drivers/regulator/rt6160-regulator.o drivers/regulator/rt6160-regulator.mod.o;  true

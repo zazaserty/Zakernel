@@ -1,0 +1,4 @@
+drivers/firmware/cirrus/cs_dsp.o
+drivers/firmware/efi/test/efi_test.o
+drivers/firmware/iscsi_ibft.o
+drivers/firmware/qemu_fw_cfg.o

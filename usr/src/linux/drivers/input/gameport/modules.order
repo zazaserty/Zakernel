@@ -1,0 +1,5 @@
+drivers/input/gameport/gameport.o
+drivers/input/gameport/emu10k1-gp.o
+drivers/input/gameport/fm801-gp.o
+drivers/input/gameport/lightning.o
+drivers/input/gameport/ns558.o

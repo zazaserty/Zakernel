@@ -1,0 +1,1 @@
+savedcmd_drivers/net/dsa/realtek/rtl8365mb.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/dsa/realtek/rtl8365mb.ko drivers/net/dsa/realtek/rtl8365mb.o drivers/net/dsa/realtek/rtl8365mb.mod.o;  true

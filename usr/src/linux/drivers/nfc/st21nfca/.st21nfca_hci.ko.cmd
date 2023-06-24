@@ -1,0 +1,1 @@
+savedcmd_drivers/nfc/st21nfca/st21nfca_hci.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/nfc/st21nfca/st21nfca_hci.ko drivers/nfc/st21nfca/st21nfca_hci.o drivers/nfc/st21nfca/st21nfca_hci.mod.o;  true

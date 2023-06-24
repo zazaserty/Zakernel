@@ -1,0 +1,1 @@
+savedcmd_drivers/input/touchscreen/hynitron_cstxxx.mod := printf '%s\n'   hynitron_cstxxx.o | awk '!x[$$0]++ { print("drivers/input/touchscreen/"$$0) }' > drivers/input/touchscreen/hynitron_cstxxx.mod

@@ -1,0 +1,8 @@
+drivers/hwtracing/intel_th/intel_th.o
+drivers/hwtracing/intel_th/intel_th_pci.o
+drivers/hwtracing/intel_th/intel_th_acpi.o
+drivers/hwtracing/intel_th/intel_th_gth.o
+drivers/hwtracing/intel_th/intel_th_sth.o
+drivers/hwtracing/intel_th/intel_th_msu.o
+drivers/hwtracing/intel_th/intel_th_pti.o
+drivers/hwtracing/intel_th/intel_th_msu_sink.o

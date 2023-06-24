@@ -1,0 +1,1 @@
+savedcmd_lib/memcpy_kunit.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o lib/memcpy_kunit.ko lib/memcpy_kunit.o lib/memcpy_kunit.mod.o;  true

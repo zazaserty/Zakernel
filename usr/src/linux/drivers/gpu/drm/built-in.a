@@ -1,0 +1,105 @@
+!<thin>
+//                                              812       `
+drm_aperture.o/
+drm_atomic.o/
+drm_atomic_uapi.o/
+drm_auth.o/
+drm_blend.o/
+drm_bridge.o/
+drm_cache.o/
+drm_client.o/
+drm_client_modeset.o/
+drm_color_mgmt.o/
+drm_connector.o/
+drm_crtc.o/
+drm_displayid.o/
+drm_drv.o/
+drm_dumb_buffers.o/
+drm_edid.o/
+drm_encoder.o/
+drm_file.o/
+drm_fourcc.o/
+drm_framebuffer.o/
+drm_gem.o/
+drm_ioctl.o/
+drm_lease.o/
+drm_managed.o/
+drm_mm.o/
+drm_mode_config.o/
+drm_mode_object.o/
+drm_modes.o/
+drm_modeset_lock.o/
+drm_plane.o/
+drm_prime.o/
+drm_print.o/
+drm_property.o/
+drm_syncobj.o/
+drm_sysfs.o/
+drm_trace_points.o/
+drm_vblank.o/
+drm_vblank_work.o/
+drm_vma_manager.o/
+drm_writeback.o/
+lib/drm_random.o/
+drm_ioc32.o/
+drm_panel.o/
+drm_pci.o/
+drm_debugfs.o/
+drm_debugfs_crc.o/
+drm_edid_load.o/
+drm_privacy_screen.o/
+drm_privacy_screen_x86.o/
+drm_panel_orientation_quirks.o/
+drm_mipi_dsi.o/
+
+/0              0           0     0     644     5792      `
+/16             0           0     0     644     54888     `
+/30             0           0     0     644     25504     `
+/49             0           0     0     644     15648     `
+/61             0           0     0     644     13360     `
+/74             0           0     0     644     29016     `
+/88             0           0     0     644     13800     `
+/101            0           0     0     644     18752     `
+/115            0           0     0     644     26104     `
+/137            0           0     0     644     14968     `
+/155            0           0     0     644     93072     `
+/172            0           0     0     644     25968     `
+/184            0           0     0     644     4272      `
+/201            0           0     0     644     34336     `
+/212            0           0     0     644     3864      `
+/232            0           0     0     644     135072    `
+/244            0           0     0     644     11648     `
+/259            0           0     0     644     24352     `
+/271            0           0     0     644     13672     `
+/285            0           0     0     644     30344     `
+/304            0           0     0     644     50048     `
+/315            0           0     0     644     38952     `
+/328            0           0     0     644     16360     `
+/341            0           0     0     644     11344     `
+/356            0           0     0     644     21208     `
+/366            0           0     0     644     19616     `
+/385            0           0     0     644     19472     `
+/404            0           0     0     644     52600     `
+/417            0           0     0     644     18536     `
+/437            0           0     0     644     38672     `
+/450            0           0     0     644     30664     `
+/463            0           0     0     644     22568     `
+/476            0           0     0     644     25464     `
+/492            0           0     0     644     38720     `
+/507            0           0     0     644     21936     `
+/520            0           0     0     644     17224     `
+/540            0           0     0     644     61880     `
+/554            0           0     0     644     10056     `
+/573            0           0     0     644     11256     `
+/592            0           0     0     644     15144     `
+/609            0           0     0     644     4576      `
+/627            0           0     0     644     13104     `
+/640            0           0     0     644     11816     `
+/653            0           0     0     644     2056      `
+/664            0           0     0     644     24264     `
+/679            0           0     0     644     12992     `
+/698            0           0     0     644     9136      `
+/715            0           0     0     644     19528     `
+/737            0           0     0     644     5424      `
+/763            0           0     0     644     20408     `
+/795            0           0     0     644     57376     `
