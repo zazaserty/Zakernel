@@ -1,0 +1,14 @@
+drivers/net/wireless/realtek/rtw89/core.o
+drivers/net/wireless/realtek/rtw89/mac80211.o
+drivers/net/wireless/realtek/rtw89/mac.o
+drivers/net/wireless/realtek/rtw89/phy.o
+drivers/net/wireless/realtek/rtw89/fw.o
+drivers/net/wireless/realtek/rtw89/cam.o
+drivers/net/wireless/realtek/rtw89/efuse.o
+drivers/net/wireless/realtek/rtw89/regd.o
+drivers/net/wireless/realtek/rtw89/sar.o
+drivers/net/wireless/realtek/rtw89/coex.o
+drivers/net/wireless/realtek/rtw89/ps.o
+drivers/net/wireless/realtek/rtw89/chan.o
+drivers/net/wireless/realtek/rtw89/ser.o
+drivers/net/wireless/realtek/rtw89/wow.o

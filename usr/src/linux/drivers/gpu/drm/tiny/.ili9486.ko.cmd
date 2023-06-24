@@ -1,0 +1,1 @@
+savedcmd_drivers/gpu/drm/tiny/ili9486.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/gpu/drm/tiny/ili9486.ko drivers/gpu/drm/tiny/ili9486.o drivers/gpu/drm/tiny/ili9486.mod.o;  true

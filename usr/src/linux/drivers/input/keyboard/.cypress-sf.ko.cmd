@@ -1,0 +1,1 @@
+savedcmd_drivers/input/keyboard/cypress-sf.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/input/keyboard/cypress-sf.ko drivers/input/keyboard/cypress-sf.o drivers/input/keyboard/cypress-sf.mod.o;  true

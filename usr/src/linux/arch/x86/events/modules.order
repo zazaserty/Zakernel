@@ -1,0 +1,4 @@
+arch/x86/events/amd/power.o
+arch/x86/events/intel/intel-uncore.o
+arch/x86/events/intel/intel-cstate.o
+arch/x86/events/rapl.o

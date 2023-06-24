@@ -1,0 +1,1 @@
+savedcmd_lib/bitfield_kunit.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o lib/bitfield_kunit.ko lib/bitfield_kunit.o lib/bitfield_kunit.mod.o;  true

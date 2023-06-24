@@ -1,0 +1,1 @@
+savedcmd_lib/test_linear_ranges.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o lib/test_linear_ranges.ko lib/test_linear_ranges.o lib/test_linear_ranges.mod.o;  true

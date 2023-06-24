@@ -1,0 +1,18 @@
+!<thin>
+//                                              194       `
+i2c-ccgx-ucsi.o/
+i2c-designware-common.o/
+i2c-designware-master.o/
+i2c-designware-slave.o/
+i2c-designware-platdrv.o/
+i2c-designware-amdpsp.o/
+i2c-designware-baytrail.o/
+i2c-designware-pcidrv.o/
+/0              0           0     0     644     2912      `
+/17             0           0     0     644     25424     `
+/42             0           0     0     644     24696     `
+/67             0           0     0     644     11120     `
+/91             0           0     0     644     15560     `
+/117            0           0     0     644     13712     `
+/142            0           0     0     644     3400      `
+/169            0           0     0     644     16320     `

@@ -1,0 +1,6 @@
+drivers/tty/serial/8250/8250_exar.o
+drivers/tty/serial/8250/8250_dfl.o
+drivers/tty/serial/8250/8250_lpss.o
+drivers/tty/serial/sc16is7xx.o
+drivers/tty/serial/jsm/jsm.o
+drivers/tty/serial/arc_uart.o

@@ -1,0 +1,1 @@
+savedcmd_sound/soc/intel/boards/snd-soc-sof-sdw.mod := printf '%s\n'   sof_sdw.o sof_sdw_max98373.o sof_sdw_rt_amp.o sof_sdw_rt5682.o sof_sdw_rt700.o sof_sdw_rt711.o sof_sdw_rt711_sdca.o sof_sdw_rt715.o sof_sdw_rt715_sdca.o sof_sdw_dmic.o sof_sdw_hdmi.o | awk '!x[$$0]++ { print("sound/soc/intel/boards/"$$0) }' > sound/soc/intel/boards/snd-soc-sof-sdw.mod

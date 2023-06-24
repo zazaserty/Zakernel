@@ -1,0 +1,17 @@
+drivers/gpio/gpio-generic.o
+drivers/gpio/gpio-aggregator.o
+drivers/gpio/gpio-amd-fch.o
+drivers/gpio/gpio-amdpt.o
+drivers/gpio/gpio-arizona.o
+drivers/gpio/gpio-bd9571mwv.o
+drivers/gpio/gpio-dln2.o
+drivers/gpio/gpio-exar.o
+drivers/gpio/gpio-ich.o
+drivers/gpio/gpio-idio-16.o
+drivers/gpio/gpio-it87.o
+drivers/gpio/gpio-pca953x.o
+drivers/gpio/gpio-pca9570.o
+drivers/gpio/gpio-pci-idio-16.o
+drivers/gpio/gpio-tps68470.o
+drivers/gpio/gpio-virtio.o
+drivers/gpio/gpio-wcove.o

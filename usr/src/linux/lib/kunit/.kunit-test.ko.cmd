@@ -1,0 +1,1 @@
+savedcmd_lib/kunit/kunit-test.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o lib/kunit/kunit-test.ko lib/kunit/kunit-test.o lib/kunit/kunit-test.mod.o;  true

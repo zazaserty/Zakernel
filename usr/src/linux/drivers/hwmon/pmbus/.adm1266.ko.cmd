@@ -1,0 +1,1 @@
+savedcmd_drivers/hwmon/pmbus/adm1266.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/pmbus/adm1266.ko drivers/hwmon/pmbus/adm1266.o drivers/hwmon/pmbus/adm1266.mod.o;  true

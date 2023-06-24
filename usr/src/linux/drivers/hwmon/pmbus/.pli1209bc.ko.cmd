@@ -1,0 +1,1 @@
+savedcmd_drivers/hwmon/pmbus/pli1209bc.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/pmbus/pli1209bc.ko drivers/hwmon/pmbus/pli1209bc.o drivers/hwmon/pmbus/pli1209bc.mod.o;  true

@@ -1,0 +1,1 @@
+savedcmd_sound/soc/sof/intel/snd-sof-acpi-intel-bdw.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o sound/soc/sof/intel/snd-sof-acpi-intel-bdw.ko sound/soc/sof/intel/snd-sof-acpi-intel-bdw.o sound/soc/sof/intel/snd-sof-acpi-intel-bdw.mod.o;  true

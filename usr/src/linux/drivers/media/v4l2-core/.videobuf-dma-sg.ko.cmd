@@ -1,0 +1,1 @@
+savedcmd_drivers/media/v4l2-core/videobuf-dma-sg.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/media/v4l2-core/videobuf-dma-sg.ko drivers/media/v4l2-core/videobuf-dma-sg.o drivers/media/v4l2-core/videobuf-dma-sg.mod.o;  true

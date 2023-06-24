@@ -1,0 +1,1 @@
+savedcmd_drivers/hwmon/tmp513.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/tmp513.ko drivers/hwmon/tmp513.o drivers/hwmon/tmp513.mod.o;  true

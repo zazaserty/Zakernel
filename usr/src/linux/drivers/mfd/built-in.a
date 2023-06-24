@@ -1,0 +1,22 @@
+!<thin>
+//                                              170       `
+mfd-core.o/
+axp20x.o/
+axp20x-i2c.o/
+intel-lpss.o/
+intel-lpss-pci.o/
+intel-lpss-acpi.o/
+syscon.o/
+intel_soc_pmic_crc.o/
+intel_soc_pmic_chtwc.o/
+intel_soc_pmic_chtdc_ti.o/
+/0              0           0     0     644     16384     `
+/12             0           0     0     644     36976     `
+/22             0           0     0     644     6568      `
+/36             0           0     0     644     16560     `
+/50             0           0     0     644     31064     `
+/68             0           0     0     644     11360     `
+/87             0           0     0     644     12832     `
+/97             0           0     0     644     13696     `
+/119            0           0     0     644     13064     `
+/143            0           0     0     644     9784      `

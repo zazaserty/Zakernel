@@ -1,0 +1,13 @@
+drivers/net/ethernet/intel/e100.o
+drivers/net/ethernet/intel/e1000/e1000.o
+drivers/net/ethernet/intel/e1000e/e1000e.o
+drivers/net/ethernet/intel/igb/igb.o
+drivers/net/ethernet/intel/igc/igc.o
+drivers/net/ethernet/intel/igbvf/igbvf.o
+drivers/net/ethernet/intel/ixgbe/ixgbe.o
+drivers/net/ethernet/intel/ixgbevf/ixgbevf.o
+drivers/net/ethernet/intel/i40e/i40e.o
+drivers/net/ethernet/intel/ixgb/ixgb.o
+drivers/net/ethernet/intel/iavf/iavf.o
+drivers/net/ethernet/intel/fm10k/fm10k.o
+drivers/net/ethernet/intel/ice/ice.o

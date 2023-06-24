@@ -1,0 +1,1 @@
+savedcmd_sound/soc/intel/common/modules.order := {   echo sound/soc/intel/common/snd-soc-sst-dsp.o;   echo sound/soc/intel/common/snd-soc-sst-ipc.o;   echo sound/soc/intel/common/snd-soc-acpi-intel-match.o; :; } > sound/soc/intel/common/modules.order

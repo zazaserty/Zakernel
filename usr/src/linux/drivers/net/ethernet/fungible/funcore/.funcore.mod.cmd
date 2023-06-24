@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/fungible/funcore/funcore.mod := printf '%s\n'   fun_dev.o fun_queue.o | awk '!x[$$0]++ { print("drivers/net/ethernet/fungible/funcore/"$$0) }' > drivers/net/ethernet/fungible/funcore/funcore.mod

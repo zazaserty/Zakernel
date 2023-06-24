@@ -1,0 +1,1 @@
+savedcmd_drivers/ntb/test/ntb_pingpong.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/ntb/test/ntb_pingpong.ko drivers/ntb/test/ntb_pingpong.o drivers/ntb/test/ntb_pingpong.mod.o;  true

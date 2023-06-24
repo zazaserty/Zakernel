@@ -1,0 +1,1 @@
+savedcmd_drivers/usb/typec/mux/fsa4480.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/usb/typec/mux/fsa4480.ko drivers/usb/typec/mux/fsa4480.o drivers/usb/typec/mux/fsa4480.mod.o;  true

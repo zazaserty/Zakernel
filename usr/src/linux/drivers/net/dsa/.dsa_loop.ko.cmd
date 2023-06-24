@@ -1,0 +1,1 @@
+savedcmd_drivers/net/dsa/dsa_loop.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/dsa/dsa_loop.ko drivers/net/dsa/dsa_loop.o drivers/net/dsa/dsa_loop.mod.o;  true

@@ -1,0 +1,1 @@
+savedcmd_drivers/hwmon/sbtsi_temp.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/hwmon/sbtsi_temp.ko drivers/hwmon/sbtsi_temp.o drivers/hwmon/sbtsi_temp.mod.o;  true

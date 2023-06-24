@@ -1,0 +1,12 @@
+drivers/platform/x86/dell/alienware-wmi.o
+drivers/platform/x86/dell/dcdbas.o
+drivers/platform/x86/dell/dell-laptop.o
+drivers/platform/x86/dell/dell-rbtn.o
+drivers/platform/x86/dell/dell-smbios.o
+drivers/platform/x86/dell/dell-smo8800.o
+drivers/platform/x86/dell/dell-wmi.o
+drivers/platform/x86/dell/dell-wmi-aio.o
+drivers/platform/x86/dell/dell-wmi-descriptor.o
+drivers/platform/x86/dell/dell-wmi-ddv.o
+drivers/platform/x86/dell/dell-wmi-led.o
+drivers/platform/x86/dell/dell-wmi-sysman/dell-wmi-sysman.o

@@ -1,0 +1,1 @@
+savedcmd_drivers/iommu/iommufd/iommufd.mod := printf '%s\n'   device.o hw_pagetable.o io_pagetable.o ioas.o main.o pages.o vfio_compat.o | awk '!x[$$0]++ { print("drivers/iommu/iommufd/"$$0) }' > drivers/iommu/iommufd/iommufd.mod

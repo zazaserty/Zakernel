@@ -1,0 +1,1 @@
+savedcmd_drivers/reset/reset-tps380x.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/reset/reset-tps380x.ko drivers/reset/reset-tps380x.o drivers/reset/reset-tps380x.mod.o;  true

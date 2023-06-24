@@ -1,0 +1,1 @@
+savedcmd_sound/soc/intel/boards/snd-soc-sst-sof-wm8804.mod := printf '%s\n'   sof_wm8804.o | awk '!x[$$0]++ { print("sound/soc/intel/boards/"$$0) }' > sound/soc/intel/boards/snd-soc-sst-sof-wm8804.mod

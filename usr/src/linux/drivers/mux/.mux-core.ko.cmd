@@ -1,0 +1,1 @@
+savedcmd_drivers/mux/mux-core.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/mux/mux-core.ko drivers/mux/mux-core.o drivers/mux/mux-core.mod.o;  true

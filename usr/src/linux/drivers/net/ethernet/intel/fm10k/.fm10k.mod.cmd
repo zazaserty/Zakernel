@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/intel/fm10k/fm10k.mod := printf '%s\n'   fm10k_main.o fm10k_common.o fm10k_pci.o fm10k_netdev.o fm10k_ethtool.o fm10k_pf.o fm10k_vf.o fm10k_mbx.o fm10k_iov.o fm10k_tlv.o fm10k_debugfs.o fm10k_dcbnl.o | awk '!x[$$0]++ { print("drivers/net/ethernet/intel/fm10k/"$$0) }' > drivers/net/ethernet/intel/fm10k/fm10k.mod

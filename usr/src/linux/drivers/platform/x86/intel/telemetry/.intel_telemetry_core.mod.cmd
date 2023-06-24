@@ -1,0 +1,1 @@
+savedcmd_drivers/platform/x86/intel/telemetry/intel_telemetry_core.mod := printf '%s\n'   core.o | awk '!x[$$0]++ { print("drivers/platform/x86/intel/telemetry/"$$0) }' > drivers/platform/x86/intel/telemetry/intel_telemetry_core.mod

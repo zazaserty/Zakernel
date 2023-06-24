@@ -1,0 +1,1 @@
+savedcmd_drivers/platform/x86/intel/pmc/built-in.a := rm -f drivers/platform/x86/intel/pmc/built-in.a;  printf "drivers/platform/x86/intel/pmc/%s " core.o spt.o cnp.o icl.o tgl.o adl.o mtl.o pltdrv.o | xargs ar cDPrST drivers/platform/x86/intel/pmc/built-in.a

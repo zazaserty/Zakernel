@@ -1,0 +1,1 @@
+savedcmd_drivers/char/ipmi/ssif_bmc.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/char/ipmi/ssif_bmc.ko drivers/char/ipmi/ssif_bmc.o drivers/char/ipmi/ssif_bmc.mod.o;  true

@@ -1,0 +1,1 @@
+savedcmd_drivers/char/tpm/tpm_tis_i2c.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/char/tpm/tpm_tis_i2c.ko drivers/char/tpm/tpm_tis_i2c.o drivers/char/tpm/tpm_tis_i2c.mod.o;  true

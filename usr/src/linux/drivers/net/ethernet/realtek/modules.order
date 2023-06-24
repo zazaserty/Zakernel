@@ -1,0 +1,4 @@
+drivers/net/ethernet/realtek/8139cp.o
+drivers/net/ethernet/realtek/8139too.o
+drivers/net/ethernet/realtek/atp.o
+drivers/net/ethernet/realtek/r8169.o

@@ -1,0 +1,4 @@
+drivers/input/serio/serport.o
+drivers/input/serio/serio_raw.o
+drivers/input/serio/altera_ps2.o
+drivers/input/serio/arc_ps2.o

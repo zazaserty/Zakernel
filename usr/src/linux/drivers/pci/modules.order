@@ -1,0 +1,6 @@
+drivers/pci/pcie/aer_inject.o
+drivers/pci/hotplug/acpiphp_ibm.o
+drivers/pci/controller/vmd.o
+drivers/pci/switch/switchtec.o
+drivers/pci/pci-pf-stub.o
+drivers/pci/xen-pcifront.o

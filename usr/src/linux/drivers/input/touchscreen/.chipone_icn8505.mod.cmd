@@ -1,0 +1,1 @@
+savedcmd_drivers/input/touchscreen/chipone_icn8505.mod := printf '%s\n'   chipone_icn8505.o | awk '!x[$$0]++ { print("drivers/input/touchscreen/"$$0) }' > drivers/input/touchscreen/chipone_icn8505.mod

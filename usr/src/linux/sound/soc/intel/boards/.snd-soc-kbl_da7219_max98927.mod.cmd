@@ -1,0 +1,1 @@
+savedcmd_sound/soc/intel/boards/snd-soc-kbl_da7219_max98927.mod := printf '%s\n'   kbl_da7219_max98927.o | awk '!x[$$0]++ { print("sound/soc/intel/boards/"$$0) }' > sound/soc/intel/boards/snd-soc-kbl_da7219_max98927.mod

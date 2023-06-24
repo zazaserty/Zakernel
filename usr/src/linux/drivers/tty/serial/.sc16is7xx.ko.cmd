@@ -1,0 +1,1 @@
+savedcmd_drivers/tty/serial/sc16is7xx.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/tty/serial/sc16is7xx.ko drivers/tty/serial/sc16is7xx.o drivers/tty/serial/sc16is7xx.mod.o;  true

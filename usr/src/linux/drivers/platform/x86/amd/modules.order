@@ -1,0 +1,3 @@
+drivers/platform/x86/amd/amd-pmc.o
+drivers/platform/x86/amd/amd_hsmp.o
+drivers/platform/x86/amd/pmf/amd-pmf.o

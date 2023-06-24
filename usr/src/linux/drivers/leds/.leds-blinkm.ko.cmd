@@ -1,0 +1,1 @@
+savedcmd_drivers/leds/leds-blinkm.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/leds/leds-blinkm.ko drivers/leds/leds-blinkm.o drivers/leds/leds-blinkm.mod.o;  true

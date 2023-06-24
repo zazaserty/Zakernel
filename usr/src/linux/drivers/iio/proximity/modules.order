@@ -1,0 +1,7 @@
+drivers/iio/proximity/mb1232.o
+drivers/iio/proximity/sx9310.o
+drivers/iio/proximity/sx9324.o
+drivers/iio/proximity/sx9360.o
+drivers/iio/proximity/sx_common.o
+drivers/iio/proximity/vcnl3020.o
+drivers/iio/proximity/vl53l0x-i2c.o

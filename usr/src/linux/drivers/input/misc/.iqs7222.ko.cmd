@@ -1,0 +1,1 @@
+savedcmd_drivers/input/misc/iqs7222.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/input/misc/iqs7222.ko drivers/input/misc/iqs7222.o drivers/input/misc/iqs7222.mod.o;  true

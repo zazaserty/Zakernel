@@ -1,0 +1,4 @@
+drivers/char/xillybus/xillybus_class.o
+drivers/char/xillybus/xillybus_core.o
+drivers/char/xillybus/xillybus_pcie.o
+drivers/char/xillybus/xillyusb.o

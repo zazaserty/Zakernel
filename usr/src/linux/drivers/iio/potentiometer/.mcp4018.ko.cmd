@@ -1,0 +1,1 @@
+savedcmd_drivers/iio/potentiometer/mcp4018.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/iio/potentiometer/mcp4018.ko drivers/iio/potentiometer/mcp4018.o drivers/iio/potentiometer/mcp4018.mod.o;  true

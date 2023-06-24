@@ -1,0 +1,1 @@
+savedcmd_drivers/media/cec/platform/modules.order := {   cat drivers/media/cec/platform/cec-gpio/modules.order;   cat drivers/media/cec/platform/seco/modules.order; :; } > drivers/media/cec/platform/modules.order

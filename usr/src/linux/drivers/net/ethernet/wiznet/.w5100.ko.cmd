@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/wiznet/w5100.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/ethernet/wiznet/w5100.ko drivers/net/ethernet/wiznet/w5100.o drivers/net/ethernet/wiznet/w5100.mod.o;  true

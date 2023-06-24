@@ -1,0 +1,6 @@
+drivers/atm/nicstar.o
+drivers/atm/eni.o
+drivers/atm/suni.o
+drivers/atm/solos-pci.o
+drivers/atm/atmtcp.o
+drivers/atm/he.o

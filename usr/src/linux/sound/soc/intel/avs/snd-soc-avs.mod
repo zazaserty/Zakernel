@@ -1,0 +1,17 @@
+sound/soc/intel/avs/dsp.o
+sound/soc/intel/avs/ipc.o
+sound/soc/intel/avs/messages.o
+sound/soc/intel/avs/utils.o
+sound/soc/intel/avs/core.o
+sound/soc/intel/avs/loader.o
+sound/soc/intel/avs/topology.o
+sound/soc/intel/avs/path.o
+sound/soc/intel/avs/pcm.o
+sound/soc/intel/avs/board_selection.o
+sound/soc/intel/avs/control.o
+sound/soc/intel/avs/cldma.o
+sound/soc/intel/avs/skl.o
+sound/soc/intel/avs/apl.o
+sound/soc/intel/avs/trace.o
+sound/soc/intel/avs/probes.o
+sound/soc/intel/avs/debugfs.o

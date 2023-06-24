@@ -1,0 +1,33 @@
+!<thin>
+//                                              320       `
+x86/intel/pmc/core.o/
+x86/intel/pmc/spt.o/
+x86/intel/pmc/cnp.o/
+x86/intel/pmc/icl.o/
+x86/intel/pmc/tgl.o/
+x86/intel/pmc/adl.o/
+x86/intel/pmc/mtl.o/
+x86/intel/pmc/pltdrv.o/
+x86/intel/smartconnect.o/
+x86/intel/turbo_max_3.o/
+x86/touchscreen_dmi.o/
+x86/p2sb.o/
+x86/intel_scu_ipc.o/
+x86/intel_scu_pcidrv.o/
+x86/pmc_atom.o/
+
+/0              0           0     0     644     47424     `
+/22             0           0     0     644     6576      `
+/43             0           0     0     644     8992      `
+/64             0           0     0     644     2984      `
+/85             0           0     0     644     13864     `
+/106            0           0     0     644     14704     `
+/127            0           0     0     644     3848      `
+/148            0           0     0     644     6256      `
+/172            0           0     0     644     5904      `
+/198            0           0     0     644     8312      `
+/223            0           0     0     644     75336     `
+/246            0           0     0     644     4208      `
+/258            0           0     0     644     26128     `
+/279            0           0     0     644     4352      `
+/303            0           0     0     644     21680     `

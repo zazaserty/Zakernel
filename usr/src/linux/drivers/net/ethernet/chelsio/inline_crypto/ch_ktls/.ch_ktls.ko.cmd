@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/ch_ktls.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/ch_ktls.ko drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/ch_ktls.o drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/ch_ktls.mod.o;  true

@@ -1,0 +1,1 @@
+savedcmd_drivers/crypto/qat/qat_4xxx/qat_4xxx.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/crypto/qat/qat_4xxx/qat_4xxx.ko drivers/crypto/qat/qat_4xxx/qat_4xxx.o drivers/crypto/qat/qat_4xxx/qat_4xxx.mod.o;  true

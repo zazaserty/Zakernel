@@ -1,0 +1,4 @@
+sound/soc/amd/vangogh/snd-pci-acp5x.o
+sound/soc/amd/vangogh/snd-acp5x-i2s.o
+sound/soc/amd/vangogh/snd-acp5x-pcm-dma.o
+sound/soc/amd/vangogh/snd-soc-acp5x-mach.o

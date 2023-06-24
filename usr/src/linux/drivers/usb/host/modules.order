@@ -1,0 +1,3 @@
+drivers/usb/host/xhci-plat-hcd.o
+drivers/usb/host/sl811-hcd.o
+drivers/usb/host/xen-hcd.o

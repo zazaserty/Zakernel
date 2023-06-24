@@ -1,0 +1,1 @@
+savedcmd_drivers/rtc/rtc-m41t94.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/rtc/rtc-m41t94.ko drivers/rtc/rtc-m41t94.o drivers/rtc/rtc-m41t94.mod.o;  true

@@ -1,0 +1,4 @@
+drivers/net/mdio/mdio-bcm-unimac.o
+drivers/net/mdio/mdio-bitbang.o
+drivers/net/mdio/mdio-i2c.o
+drivers/net/mdio/mdio-mvusb.o

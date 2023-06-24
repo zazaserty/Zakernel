@@ -1,0 +1,1 @@
+savedcmd_lib/stackinit_kunit.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o lib/stackinit_kunit.ko lib/stackinit_kunit.o lib/stackinit_kunit.mod.o;  true

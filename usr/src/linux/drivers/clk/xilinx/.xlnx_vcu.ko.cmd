@@ -1,0 +1,1 @@
+savedcmd_drivers/clk/xilinx/xlnx_vcu.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/clk/xilinx/xlnx_vcu.ko drivers/clk/xilinx/xlnx_vcu.o drivers/clk/xilinx/xlnx_vcu.mod.o;  true

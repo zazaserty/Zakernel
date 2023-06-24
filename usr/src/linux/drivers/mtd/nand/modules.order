@@ -1,0 +1,3 @@
+drivers/mtd/nand/raw/nand.o
+drivers/mtd/nand/raw/nandsim.o
+drivers/mtd/nand/nandcore.o

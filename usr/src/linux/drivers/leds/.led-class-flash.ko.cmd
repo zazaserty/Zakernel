@@ -1,0 +1,1 @@
+savedcmd_drivers/leds/led-class-flash.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/leds/led-class-flash.ko drivers/leds/led-class-flash.o drivers/leds/led-class-flash.mod.o;  true

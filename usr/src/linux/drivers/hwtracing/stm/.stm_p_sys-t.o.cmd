@@ -1,0 +1,3 @@
+savedcmd_drivers/hwtracing/stm/stm_p_sys-t.o := ld -m elf_x86_64 -z noexecstack --no-warn-rwx-segments   -r -o drivers/hwtracing/stm/stm_p_sys-t.o @drivers/hwtracing/stm/stm_p_sys-t.mod  ; ./tools/objtool/objtool --hacks=jump_label --hacks=noinstr --hacks=skylake --ibt --orc --retpoline --rethunk --sls --static-call --uaccess --prefix=16  --link  --module drivers/hwtracing/stm/stm_p_sys-t.o
+
+drivers/hwtracing/stm/stm_p_sys-t.o: $(wildcard ./tools/objtool/objtool)

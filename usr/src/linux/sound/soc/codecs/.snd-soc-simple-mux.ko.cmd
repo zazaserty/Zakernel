@@ -1,0 +1,1 @@
+savedcmd_sound/soc/codecs/snd-soc-simple-mux.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o sound/soc/codecs/snd-soc-simple-mux.ko sound/soc/codecs/snd-soc-simple-mux.o sound/soc/codecs/snd-soc-simple-mux.mod.o;  true

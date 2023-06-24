@@ -1,0 +1,1 @@
+savedcmd_sound/soc/intel/avs/boards/snd-soc-avs-i2s-test.mod := printf '%s\n'   i2s_test.o | awk '!x[$$0]++ { print("sound/soc/intel/avs/boards/"$$0) }' > sound/soc/intel/avs/boards/snd-soc-avs-i2s-test.mod
